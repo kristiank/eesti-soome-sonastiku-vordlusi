@@ -1,0 +1,912 @@
+<grupp>tagune: tagune, telgi|tagune, ukse|tagune, \mere\tagune, \mõistuse\tagune, nurga|tagune, piiri|tagune, polaarjoone|tagune, haua|tagune, kulisside|tagune, raja|tagune, \riida\tagune, rinde|tagune, \sajandi\tagune, \sajandite\tagune, sauna|tagune, seina|tagune, selja|tagune, säärvandi|tagune</grupp>
+<grupp>tahke: tahke, tahkevõitu</grupp>
+<grupp>tahtlik: tahtlik, vaba|tahtlik</grupp>
+<grupp>taktiline: taktiline, süntaktiline</grupp>
+<grupp>taline: taline, taustaline, vastaline, viitaline, \ühe\rattaline, lestaline, mättaline, \nelja\rattaline, \kahe\rattaline, kaustaline, kestaline, kolme|rattaline</grupp>
+<grupp>taoline: taoline, oma|taoline</grupp>
+<grupp>tapja: tapja, tapjalik</grupp>
+<grupp>tarbeline: tarbeline, otstarbeline, elu|tarbeline</grupp>
+<grupp>tarbetu: tarbetu, ots|tarbetu</grupp>
+<grupp>tark: tark, tarkune, mõtte|tark, antarktiline, kirja|tark</grupp>
+<grupp>tasane: tasane, alatasane</grupp>
+<grupp>tavaline: tavaline, nimetavaline, omastavaline</grupp>
+<grupp>teemaline: teemaline, \revolutsiooni\teemaline</grupp>
+<grupp>tegev: tegev, tegevusetu, tegevuslik, isetegevuslik, kuritegevus|vastane, \suureks\tegev</grupp>
+<grupp>tegevuslik: tegevuslik, isetegevuslik</grupp>
+<grupp>tegija: tegija, töö|tegija</grupp>
+<grupp>teistlik: teistlik, panteistlik, ateistlik</grupp>
+<grupp>tekkeline: tekkeline, \jää\tekkeline</grupp>
+<grupp>tektooniline: tektooniline, arhitektooniline</grupp>
+<grupp>teljeline: teljeline, kahe|teljeline, kolme|teljeline</grupp>
+<grupp>temaatiline: temaatiline, matemaatiline, süstemaatiline</grupp>
+<grupp>temperatuuriline: temperatuuriline, \toa\temperatuuriline</grupp>
+<grupp>teoloogiline: teoloogiline, osteoloogiline</grupp>
+<grupp>teratu: teratu, literatuurne</grupp>
+<grupp>terav: terav, \terava\lõualine, \terava\võitu, \terav\kaarne</grupp>
+<grupp>termiline: termiline, diatermiline, endotermiline, isotermiline</grupp>
+<grupp>ternaarne: ternaarne, kvaternaarne</grupp>
+<grupp>territoriaalne: territoriaalne, eksterritoriaalne</grupp>
+<grupp>terve: terve, \elu\terve</grupp>
+<grupp>tige: tige, tigedavõitu</grupp>
+<grupp>tihe: tihe, \tiheda\kulmuline</grupp>
+<grupp>tiht: tiht, tihtine</grupp>
+<grupp>tiivaline: tiivaline, kahe|tiivaline, kile|tiivaline, kirju|tiivaline, \sini\tiivaline, suur|tiivaline</grupp>
+<grupp>tine: tatine, tavotine, tihtine, tine, tustine, tähtine, tökatine, tükatine, vahetine, varstine, vatine, \viie\punktine, viietine, viilitine, viimatine, lahtine, laigutine, minutine, mõnetine, neljatine, paaritine, paigutine, piirkonnitine, pikutine, puhutine, pumatine, punktine, põigitine, pärastine, püstine, ainitine, ajutine, alatine, ennestine, ennistine, esitine, hiljutine, hootine, iilitine, järgutine, kahetine, kihitine, kihvtine, kitine, klutine, kohatine, kolmetine, kontinentaalne, krehvtine, kuuetine, kõrvutine, ristine, rööbitine, rühmitine, sahvtine, saja|vatine, salatine, sametine, seitsmetine, servitine</grupp>
+<grupp>ting: ting, tinges, tingimatu, tingimuslik, tinglik, tingune</grupp>
+<grupp>tobe: tobe, tobedavõitu</grupp>
+<grupp>tohm: tohm, tohmakas</grupp>
+<grupp>toiduline: taim|toiduline, tera|toiduline, toiduline, vili|toiduline, liha|toiduline, \planktoni\toiduline, \plankton\toiduline, putuk|toiduline, põhja|toiduline, \kala\toiduline, \kõdu\toiduline, \seemne\toiduline, sega|toiduline</grupp>
+<grupp>toimeline: toimeline, \pika\toimeline</grupp>
+<grupp>toiteline: toiteline, \soola\toiteline</grupp>
+<grupp>tola: tola, epistolaarne</grupp>
+<grupp>tolerantne: tolerantne, intolerantne</grupp>
+<grupp>tonaalne: tonaalne, atonaalne, baritonaalne, kantonaalne</grupp>
+<grupp>toobine: toobine, poole|toobine</grupp>
+<grupp>tooniline: tektooniline, tooniline, \pehme\tooniline, pentatooniline, platooniline, plutooniline, arhitektooniline, diatooniline, isotooniline, ktooniline</grupp>
+<grupp>tore: tore, pitoreskne</grupp>
+<grupp>torm: torm, tormakas, tormikas, tormiline, tormine</grupp>
+<grupp>toss: toss, tossike(ne), tossune</grupp>
+<grupp>transitiivne: transitiivne, intransitiivne</grupp>
+<grupp>troofiline: troofiline, atroofiline, düstroofiline, katastroofiline, stroofiline</grupp>
+<grupp>troopiline: troopiline, misantroopiline, filantroopiline</grupp>
+<grupp>trull: trull, trulla, trullakas</grupp>
+<grupp>trulla: trulla, trullakas</grupp>
+<grupp>truu: truu, truudusetu</grupp>
+<grupp>tsensuurne: tsensuurne, \eba\tsensuurne</grupp>
+<grupp>tsentriline: tsentriline, antropotsentriline, egotsentriline, ekstsentriline, geo|tsentriline, helio|tsentriline, kontsentriline, selenotsentriline</grupp>
+<grupp>tsükliline: tsükliline, atsükliline</grupp>
+<grupp>tudi: tudi, tudike(ne)</grupp>
+<grupp>tugev: tugev, \tugeva\võitu, tugevune</grupp>
+<grupp>tuhm: tuhm, tuhmivõitu, tuhmjas</grupp>
+<grupp>tuim: tuim, tuimavõitu</grupp>
+<grupp>tujuline: tujuline, \hea\tujuline</grupp>
+<grupp>tukaline: tukaline, putukaline</grupp>
+<grupp>tulev: tulev, tulevane, üle|tulev</grupp>
+<grupp>tuline: tuline, vaistuline, muinasjutuline, naastuline, nastuline, kaela|kohtuline, raamatuline, rutuline</grupp>
+<grupp>tume: tume, \tumeda\võitu, tumekas, \tume\kõrb</grupp>
+<grupp>tumm: tumm, tummine, kurt|tumm</grupp>
+<grupp>tundmatu: tundmatu, \ära\tundmatu</grupp>
+<grupp>turb: turb, turbaline, turbane, turbulentne</grupp>
+<grupp>turistlik: turistlik, futuristlik</grupp>
+<grupp>tuttav: tuttav, tuttavlik, \ime\tuttav</grupp>
+<grupp>tõbine: tõbine, uni|tõbine, lange|tõbine, pidali|tõbine, katku|tõbine, kolla|tõbine, kuu|tõbine</grupp>
+<grupp>tõmm: tõmm, tõmmu, tõmmu|jumeline, tõmmukas, \tõmmu\võitu</grupp>
+<grupp>tõmmu: tõmmu, tõmmu|jumeline, tõmmukas, \tõmmu\võitu</grupp>
+<grupp>tõuline: tõuline, \sega\tõuline</grupp>
+<grupp>täheline: täheline, \suur\täheline</grupp>
+<grupp>tölp: tölp, tölplaslik</grupp>
+<grupp>tömp: tömp, tömpjas</grupp>
+<grupp>tönts: tönts, töntsakas, töntsi|võitu</grupp>
+<grupp>töss: töss, tössike(ne)</grupp>
+<grupp>tühi: tühi, tühine, tühise|võitu, \puru\tühi</grupp>
+<grupp>tüklik: tüklik, \peale\tüklik</grupp>
+<grupp>tüma: tüma, tümakas</grupp>
+<grupp>tüse: tüse, \tüseda\võitu, tüsedune, tüsekas</grupp>
+<grupp>tüübiline: tüübiline, \sega\tüübiline</grupp>
+<grupp>tüün: tüün, tüüne</grupp>
+<grupp>tüüpiline: tüüpiline, atüüpiline, stereotüüpiline</grupp>
+<grupp>tüüpne: tüüpne, stereotüüpne</grupp>
+<grupp>uberik: uberik, luberik</grupp>
+<grupp>udune: udune, kudune, ruudune</grupp>
+<grupp>uhe: tuher, uhe, muhe, puhev</grupp>
+<grupp>uhke: uhke, uhkevõitu</grupp>
+<grupp>uhmjas: tuhmjas, uhmjas, puhmjas</grupp>
+<grupp>uhteline: uhteline, suhteline</grupp>
+<grupp>ula_: ula_, sula_</grupp>
+<grupp>ulak: ulak, ulakas, ulaklik, kulaklik</grupp>
+<grupp>ulaklik: ulaklik, kulaklik</grupp>
+<grupp>uljas: uljas, muguljas, puljas, huuljas, kuuljas, ruljas, saduljas, sibuljas</grupp>
+<grupp>ultra|mariin: ultra|mariin, ultra|mariinne</grupp>
+<grupp>umbne: umbne, sumbne</grupp>
+<grupp>undlik: tundlik, undlik, usundlik, kujundlik</grupp>
+<grupp>unetu: unetu, punetuslik</grupp>
+<grupp>unine: unine, sidrunine</grupp>
+<grupp>unistuslik: unistuslik, kaunistuslik</grupp>
+<grupp>untsakas: untsakas, juntsakas</grupp>
+<grupp>upsakas: upsakas, jupsakas</grupp>
+<grupp>urblik: urblik, kurblik</grupp>
+<grupp>urklik: urklik, nurklik</grupp>
+<grupp>urmane: urmane, \pärast\surmane</grupp>
+<grupp>usin: usin, kuusine</grupp>
+<grupp>usjas: usjas, lausjas, juusjas, kannusjas, katusjas, kausjas, koonusjas, kääbusjas, silmusjas, soomusjas</grupp>
+<grupp>usklik: usklik, õige|usklik, pusklik</grupp>
+<grupp>usuline: taara|usuline, teise|usuline, usuline, uue|usuline, vana|usuline, \vene\usuline, \vene\õigeusuline, väär|usuline, \õige\usuline, laama|usuline, lahk|usuline, luteri|usuline, muhamedi|usuline, islami|usuline, risti|usuline</grupp>
+<grupp>uus: tuus, uus, uus|rikas, muuseumlik, muusikaline, puusakas, puusaline, difuusne, juusjas, juustjas, kruusakas, kruusane, kuusine, kuuskne</grupp>
+<grupp>vaane: vaane, vaaneline</grupp>
+<grupp>vaatlik: vaatlik, \ette\vaatlik</grupp>
+<grupp>vaatuseline: vaatuseline, \viie\vaatuseline, \kolme\vaatuseline</grupp>
+<grupp>vaatuslik: vaatuslik, \viie\vaatuslik, \kolme\vaatuslik</grupp>
+<grupp>vaba: vaba, \vabaduse\kaotuslik, vabadusetu, \vabadus\kaotuslik, \vaba\müürlik, vaba|palgaline, vabarna|karva, \vabarna\värvi, vaba|tahtlik, \vastutus\vaba</grupp>
+<grupp>vaene: taimestiku|vaene, takti|vaene, \teabe\vaene, \tunde\vaene, vaene, \vee\vaene, \võimaluste\vaene, \õuna\vaene, \pinge\vaene, \pähkli\vaene, päikese|vaene, \fantaasia\vaene, \fosfori\vaene, kogemus|vaene, \kriitika\vaene, \rõõmu\vaene</grupp>
+<grupp>vaga: vaga, vagane, vagatseja, ekstravagantne</grupp>
+<grupp>vahelduslik: vahelduslik, \astme\vahelduslik</grupp>
+<grupp>vaheline: vaheline, põõsaste|vaheline, \hoonete\vaheline, \keelte\vaheline</grupp>
+<grupp>vahetu: vahetu, vahetuseline, kahe|vahetuseline, \kolme\vahetuseline</grupp>
+<grupp>vahetuseline: vahetuseline, kahe|vahetuseline, \kolme\vahetuseline</grupp>
+<grupp>vajaline: vajaline, kasvajaline</grupp>
+<grupp>vale: vale, vale_, valelik, valentne, valev, \viie\valentne, laus|vale, ambivalentne, ekvivalentne, \kahe\valentne, kavalerlik, \kolme\valentne, kõrvale|kaldumatu</grupp>
+<grupp>valentne: valentne, \viie\valentne, ambivalentne, ekvivalentne, \kahe\valentne, \kolme\valentne</grupp>
+<grupp>valge: tule|valge, tähe|valge, \udu\valge, valge, valge|habemeline, \valge\kaartlik, valgekas, valge|nahaline, \valge\purjeline, \valge\vahuline, \valge\viljaline, valge|võitu, välgu|valge, pool|valge, \portselan\valge, puhas|valge, päikese|valge, hõbe|valge, koor|valge, kuu|valge, sinimust|valge</grupp>
+<grupp>vali: taevalik, taevaline, tavalik, tavaline, tiivaline, turvaline, täht|päevaline, vaevaline, vali, valikuline, valimatu, valinguline, valitav, valitsejalik, valitsuslik, valitsus|vastane, väravaline, \ühe\väravaline, lavaline, leivaline, nimetavaline, nõlvaline, oivaline, omastavaline, omavalitsuslik, päevalik, päevaline, pühapäevalik, ainu|valitsuslik, avalik, bukvalistlik, invaliidne, kahe|tiivaline, kahe|väravaline, karvaline, keevaline, kihvaline, kikkis|kõrvaline, kile|tiivaline, kirju|tiivaline, koivaline, \kuu\päevaline, kvalitatiivne, kvaliteediline, kvaliteetne, kõrvaline, rahvalik, rihvaline, servaline, \sini\tiivaline, suur|tiivaline, suvaline</grupp>
+<grupp>valitsuslik: valitsuslik, omavalitsuslik, ainu|valitsuslik</grupp>
+<grupp>vallatu: vallatu, vägivallatu</grupp>
+<grupp>vana: vana, vanakas, vanaldane, vananematu, vana|usuline, \vana\võitu, \vara\vana, puru|vana, rauk|vana</grupp>
+<grupp>vanune: vanune, oma|vanune</grupp>
+<grupp>varatu: varatu, kaasavaratu</grupp>
+<grupp>varbaline: varbaline, hark|varbaline</grupp>
+<grupp>variantne: variantne, invariantne</grupp>
+<grupp>varm: varm, varmas</grupp>
+<grupp>varreline: varreline, \pika\varreline, \sirge\varreline</grupp>
+<grupp>vastak: vastak, vastakas</grupp>
+<grupp>vastane: \teetanuse\vastane, \tsaari\vastane, \tuberkuloosi\vastane, usu|vastane, valitsus|vastane, vara|vastane, \varga\vastane, \vargus\vastane, vastane, \viiruse\vastane, viiruste|vastane, \viirus\vastane, vistrike|vastane, vistriku|vastane, \vähi\vastane, \malaaria\vastane, \marutaudi\vastane, marutõve|vastane, \mikroobi\vastane, moraali|vastane, \mõisa\vastane, mõisnike|vastane, \mõistuse\vastane, \mõistus\vastane, \palaviku\vastane, \peavalu\vastane, \pisikute\vastane, \pisiku\vastane, \põhikirja\vastane, \põletiku\vastane, \päevitus\vastane, \pärisorjuse\vastane, pärisorjus|vastane, \aidsi\vastane, \astma\vastane, ateroskleroosi|vastane, bakterite|vastane, bakteri|vastane, \difteeria\vastane, eostumis|vastane, \gripi\vastane, \imperialismi\vastane, inimsuse|vastane, \isiku\vastane, \kasvaja\vastane, katku|vastane, kiriku|vastane, \kombe\vastane, \komblus\vastane, \korra\vastane, \korrosiooni\vastane, kuninga|vastane, kuritegevus|vastane, \kõlblus\vastane, \kõõma\vastane, \käsu\vastane, köha|vastane, rahhiidi|vastane, rahu|vastane, \rahva\vastane, rasestumis|vastane, \reuma\vastane, revolutsiooni|vastane, \roosi\vastane, \rooste\vastane, rõugete|vastane, skleroosi|vastane, sõja|vastane</grupp>
+<grupp>vastne: vagi|vastne, vastne</grupp>
+<grupp>vatine: vatine, saja|vatine</grupp>
+<grupp>vedel: vedel, vedela|võitu</grupp>
+<grupp>veeruline: veeruline, \kahe\veeruline, \kolme\veeruline</grupp>
+<grupp>verbaalne: verbaalne, deverbaalne</grupp>
+<grupp>vereline: vereline, \sega\vereline, sini|vereline</grupp>
+<grupp>videv: videv, videvikuline, videvikune</grupp>
+<grupp>vigur: vigur, vigurlik</grupp>
+<grupp>viha: viha, vihakas, vihane, viha|pidaja, \viha\võitu</grupp>
+<grupp>vihe: vihe, viher</grupp>
+<grupp>viiene: viiene, kahekümne|viiene</grupp>
+<grupp>viiruline: viiruline, siiruviiruline</grupp>
+<grupp>viitlik: viitlik, ajaviitlik</grupp>
+<grupp>vildak: vildak, vildakas</grupp>
+<grupp>vilets: vilets, viletsake(ne), viletsavõitu</grupp>
+<grupp>viljaline: \valge\viljaline, viljaline, luu|viljaline, \kollase\viljaline, seemne|viljaline</grupp>
+<grupp>villaline: villaline, \pika\villaline</grupp>
+<grupp>villane: villane, pool|villane, kodu|villane</grupp>
+<grupp>vilu: vilu, vilukas, vilumatu, vilus, \vilu\võitu</grupp>
+<grupp>vinene: udu|vinene, vinene</grupp>
+<grupp>vintske: vintske, vintskevõitu</grupp>
+<grupp>violetjas: violetjas, violetjas|hall</grupp>
+<grupp>violett: violett, violett|hall</grupp>
+<grupp>viril: viril, virilavõitu</grupp>
+<grupp>virulentne: virulentne, avirulentne</grupp>
+<grupp>visa: visa, visandlik, visar, improvisatsiooniline</grupp>
+<grupp>vooruline: vooruline, \kahe\vooruline, \kolme\vooruline</grupp>
+<grupp>vormiline: vormiline, platvormiline</grupp>
+<grupp>vulgaarne: vulgaarne, rõve|vulgaarne</grupp>
+<grupp>vuntsiline: vuntsiline, \pika\vuntsiline</grupp>
+<grupp>võik: võik, võik_, võika|võitu, võik|hall, \põdra\võik</grupp>
+<grupp>võlts: võlts, võltsimatu</grupp>
+<grupp>võraline: võraline, kahara|võraline, \kitsa\võraline</grupp>
+<grupp>võõras: \umb\võõras, võhi|võõras, võnnu|võõras, võõras, \keha\võõras</grupp>
+<grupp>väeline: väeline, \kõige\väeline, \suurtüki\väeline</grupp>
+<grupp>väeti: väeti, väetike(ne)</grupp>
+<grupp>vägev: vägev, kõige|vägevam</grupp>
+<grupp>vänge: vänge, vängevõitu</grupp>
+<grupp>väravaline: väravaline, \ühe\väravaline, kahe|väravaline</grupp>
+<grupp>värske: värske, värskevõitu, mere|värske</grupp>
+<grupp>värviline: \teise\värviline, värviline</grupp>
+<grupp>vään: vään, väänakas, väänik, väänikas, vääniline, väänuline</grupp>
+<grupp>väänik: väänik, väänikas</grupp>
+<grupp>väär: väär, väärakas, vääramatu, väärastuslik, väärikas, vääriline, vääritu, väärne, väärtuseline, väärtusetu, väärtuslik, väär|usuline, \ala\väärne</grupp>
+<grupp>väärne: väärne, \ala\väärne</grupp>
+<grupp>õel: tõelik, tõeline, õel, õela|võitu, õelik, mõeldamatu, mõeldav, nõeljas, sõeljas</grupp>
+<grupp>õelik: tõelik, õelik</grupp>
+<grupp>õhe: õhe, õheldane, õhem, \lõhe\karva, lõheline, kõhe, kõhedavõitu, kõhetu, kõhetuslik, kõhetuvõitu</grupp>
+<grupp>õhkjas: õhkjas, mõhkjas</grupp>
+<grupp>õhuline: õhuline, \kollase\kõhuline, kõhuline, rõhuline</grupp>
+<grupp>õhutu: õhutu, rõhutu</grupp>
+<grupp>õieline: õieline, liblik|õieline, palju|õieline, putk|õieline, \kollase\õieline, korv|õieline, rist|õieline, \sarik\õieline</grupp>
+<grupp>õiguslik: õiguslik, ema|õiguslik</grupp>
+<grupp>õlaline: õlaline, \kitsa\õlaline, kõlaline</grupp>
+<grupp>õlgne: õlgne, \ühe\õlgne, \kahe\õlgne, \kitsa\õlgne</grupp>
+<grupp>õline: õline, põline</grupp>
+<grupp>õnnetu: õnnetu, õnnetuke(ne), mõnnetu</grupp>
+<grupp>õplik: õplik, lõplik</grupp>
+<grupp>õrn: õrn, \õrna\jumeline, õrnake(ne), \õrna\võitu, õrnuke(ne)</grupp>
+<grupp>õudne: õudne, põudne, jõudne</grupp>
+<grupp>õunane: õunane, lõunane</grupp>
+<grupp>õunik: õunik, õunik|hall</grupp>
+<grupp>õõneline: õõneline, rõõneline</grupp>
+<grupp>äbar: täbar, äbar, äbarik, käbarane, säbar, säbarik</grupp>
+<grupp>äbarik: äbarik, säbarik</grupp>
+<grupp>äge: vägev, äge, ägeda|võitu, lääge, \lühi\nägeline, nägelik, nägematu, nägemuslik, kõige|vägevam</grupp>
+<grupp>ähm: ähm, ähmane, ähmase|võitu, ähmikas, ähmine, ähmjas, ähmune, krähmuline, rähmane</grupp>
+<grupp>ähmane: ähmane, rähmane</grupp>
+<grupp>äkiline: täkiline, äkiline</grupp>
+<grupp>ämune: ämune, hämune, jämune, räämune</grupp>
+<grupp>äre: äre, ärev, \ääre\poolne, ääretu_, \laia\ääreline, näre_, \pika\sääreline, järelduslik, \järele\andlik, \järele\andmatu, \järele\jätmatu, järele|valvetu, järelmine, \kitsa\ääreline, käre_, \käreda\võitu, \käre\külm, kärestiku|alune, kärestikuline, \saleda\sääreline, sihvaka|sääreline, säre, säärekas, sääreline</grupp>
+<grupp>ärgas: ärgas, märgas</grupp>
+<grupp>äriline: vääriline, äriline, atmosfääriline, sfääriline</grupp>
+<grupp>äärne: võsa|äärne, väärne, äärne, mere|äärne, \ala\väärne, atmosfäärne, doktrinäärne, ranna|äärne, \sire\säärne</grupp>
+<grupp>öine: töine, öine</grupp>
+<grupp>üdikas: üdikas, südikas</grupp>
+<grupp>üdine: üdine, nüüdine</grupp>
+<grupp>ühine: tühine, ühine</grupp>
+<grupp>üksik: üksik, \üksik\asjaline, üksiklane</grupp>
+<grupp>ülbe: ülbe, ülbevõitu</grupp>
+<grupp>üldine: üldine, üle|üldine, süldine</grupp>
+<grupp>ülem: ülem, ülemine, üleminekuline, ülemuslik</grupp>
+<grupp>ülemine: ülemine, üleminekuline</grupp>
+<grupp>ülikas: tülikas, ülikas, lülikas</grupp>
+<grupp>ülim: ülim, ülimuslik, külimitune</grupp>
+<grupp>üllas: üllas, küllas, küllastamatu, küllastumatu</grupp>
+<grupp>ümar: ümar, \ümara\võitu, ümarik, ümarjas</grupp>
+<grupp>ümmar: ümmar, ümmargune, ümmarik</grupp>
+<grupp>laam: laam, laama|usuline, reklaamiline</grupp>
+<grupp>labiaalne: labiaalne, bilabiaalne</grupp>
+<grupp>ladus: ladus, saladuslik</grupp>
+<grupp>lage: lage, \lageda\võitu, kollageenne</grupp>
+<grupp>lahja: lahja, \lahja\võitu</grupp>
+<grupp>lai: lai, laia|aknaline, laiakas, laia|kondiline, laialdane, laialine, \laia\võitu, \laia\ääreline, laibalik, laidne, laiekraaniline, laiguline, laigutine, laineline, lainetu, lainjas, \laisa\võitu, laisk, laitmatu, laiuke(ne), laiune</grupp>
+<grupp>lame: lame, lameda|katuseline, \lameda\võitu, parlamentaarne, parlamentlik</grupp>
+<grupp>lapse|ohtu: tütarlapse|ohtu, lapse|ohtu</grupp>
+<grupp>lapsik: lapsik, lapsikuvõitu</grupp>
+<grupp>lateraalne: unilateraalne, lateraalne, bilateraalne, kollateraalne</grupp>
+<grupp>laug: laug, lauge, laugjas, lauguline</grupp>
+<grupp>lauk: lauk, laukaline, lauk|ots</grupp>
+<grupp>laus: laus, lausaldane, lausaline, lauseline, lausik, lausjas, lausk, lauskjas, laus|vale</grupp>
+<grupp>lausk: lausk, lauskjas</grupp>
+<grupp>lebe: lebe, plebeilik, plebeiline</grupp>
+<grupp>leekjas: leekjas, pleekjas</grupp>
+<grupp>legaalne: legaalne, illegaalne</grupp>
+<grupp>legitiimne: legitiimne, illegitiimne</grupp>
+<grupp>leheline: ühe|iduleheline, leheline, paksu|leheline, kahe|iduleheline</grupp>
+<grupp>leige: leige, leigevõitu</grupp>
+<grupp>lekk: lekk, plekk</grupp>
+<grupp>lemb: lemb, lembe, lembene, lembetu</grupp>
+<grupp>lembe: lembe, lembene, lembetu</grupp>
+<grupp>lennuline: lennuline, linnu|lennuline</grupp>
+<grupp>lesk: teleskoopiline, lesk, olesklejalik, burleskne</grupp>
+<grupp>liba: liba, libajas</grupp>
+<grupp>libe: libe, liberaalne, liberalistlik</grupp>
+<grupp>lige: lige, ligem, lige|märg, intelligentlik, intelligentne</grupp>
+<grupp>ligida: ligida, ligidane</grupp>
+<grupp>lihav: lihav, lihavavõitu</grupp>
+<grupp>liitne: liitne, megaliitne, monoliitne, kosmopoliitne</grupp>
+<grupp>liitrine: liitrine, poole|liitrine</grupp>
+<grupp>liivjas: liivjas, oliivjas</grupp>
+<grupp>lilla: lilla, lillakas</grupp>
+<grupp>linlik: linlik, stalinlik</grupp>
+<grupp>lits: talitsematu, valitsejalik, valitsuslik, valitsus|vastane, lits, litsakas, omavalitsuslik, politseilik, politseiline, publitsistlik, ainu|valitsuslik, eksplitsiitne, hoolitseja</grupp>
+<grupp>liusk: liusk, liuskjas</grupp>
+<grupp>loetav: loetav, masin|loetav</grupp>
+<grupp>loge: loge, apologeetiline</grupp>
+<grupp>loid: tetraploidne, triploidne, loid, paraboloidne, polüploidne, diploidne, haploidne, kolloidne</grupp>
+<grupp>loll: loll, lollakas, lollivõitu, \loom\loll</grupp>
+<grupp>loogiline: tautoloogiline, tehnoloogiline, tekstoloogiline, teleoloogiline, teoloogiline, terminoloogiline, topoloogiline, tsütoloogiline, tüpoloogiline, veneroloogiline, viroloogiline, ökoloogiline, leksikoloogiline, limnoloogiline, litoloogiline, loogiline, meteoroloogiline, metodoloogiline, mineraloogiline, monoloogiline, morfoloogiline, museoloogiline, mükoloogiline, mütoloogiline, neuroloogiline, oftalmoloogiline, okeanoloogiline, onkoloogiline, ontoloogiline, ornitoloogiline, osteoloogiline, otoloogiline, paleontoloogiline, palünoloogiline, patoloogiline, pomoloogiline, psühholoogiline, pulmonoloogiline, agrometeoroloogiline, aloogiline, analoogiline, antropoloogiline, arheoloogiline, astroloogiline, bakterioloogiline, bioloogiline, dendroloogiline, dialektoloogiline, entomoloogiline, epidemioloogiline, etioloogiline, etnoloogiline, etümoloogiline, faktoloogiline, farmakoloogiline, fenoloogiline, fenomenoloogiline, filoloogiline, fonoloogiline, fraseoloogiline, füsioloogiline, fütotsönoloogiline, genealoogiline, geoloogiline, glatsioloogiline, gnoseoloogiline, grafoloogiline, günekoloogiline, histoloogiline, homoloogiline, hüdroloogiline, ideoloogiline, ihtüoloogiline, immunoloogiline, klimatoloogiline, kosmoloogiline, kronoloogiline, kurortoloogiline, radioloogiline, rinoloogiline, röntgenoloogiline, seismoloogiline, semasioloogiline, seroloogiline, sotsioloogiline, sovetoloogiline, speleoloogiline, stomatoloogiline, zooloogiline</grupp>
+<grupp>loomalik: loomalik, metsloomalik</grupp>
+<grupp>loomulik: loomulik, iseloomulik</grupp>
+<grupp>loomuline: loomuline, kiire|iseloomuline</grupp>
+<grupp>luine: üks|luine, luine</grupp>
+<grupp>luip: luip, luipjas</grupp>
+<grupp>lumine: lumine, alumine</grupp>
+<grupp>läheda: \tee\lähedane, läheda, lähedane, pinna|lähedane, \rinde\lähedane</grupp>
+<grupp>lähedane: \tee\lähedane, lähedane, pinna|lähedane, \rinde\lähedane</grupp>
+<grupp>lähim: lähim, lähimine</grupp>
+<grupp>lämb: lämb, lämbe</grupp>
+<grupp>lämm: lämm, lämmi, lämmune, plämm, glämm</grupp>
+<grupp>lödi: lödi, lödine</grupp>
+<grupp>lühida: lühida, lühidavõitu</grupp>
+<grupp>lüütiline: lüütiline, paralüütiline, proteolüütiline, analüütiline, dialüütiline, elektrolüütiline, hemolüütiline, hüdrolüütiline, katalüütiline, spasmolüütiline</grupp>
+<grupp>maalik: maalik, \ida\maalik, isamaalik</grupp>
+<grupp>maaline: \üle\maaline, maaline, mais|maaline, isamaaline, \üle\venemaaline</grupp>
+<grupp>maatu: maatu, isa|maatu, \kodu\maatu</grupp>
+<grupp>madal: madal, madala|laubaline, \madala\prooviline, \madala\võitu, madaluke(ne)</grupp>
+<grupp>madonnalik: madonnalik, primadonnalik</grupp>
+<grupp>mage: mage, \mageda\võitu, magekas</grupp>
+<grupp>magnetiline: magnetiline, paramagnetiline, diamagnetiline</grupp>
+<grupp>magus: magus, magusa|võitu</grupp>
+<grupp>maiguline: maiguline, \paha\maiguline</grupp>
+<grupp>margane: tuhande|margane, margane, saja|margane</grupp>
+<grupp>mariinne: ultra|mariinne, mariinne, akvamariinne</grupp>
+<grupp>maru_: maru_, maru__</grupp>
+<grupp>materiaalne: materiaalne, immateriaalne</grupp>
+<grupp>meelne: lihtsa|meelne, meelne, ahta|meelne, ausameelne, avameelne, \edu\meelne, eri|meelne, hullu|meelne</grupp>
+<grupp>meetriline: telemeetriline, trigonomeetriline, meetriline, psühromeetriline, aksonomeetriline, aktinomeetriline, antropomeetriline, asümmeetriline, baromeetriline, biomeetriline, dosimeetriline, fotomeetriline, geomeetriline, granulomeetriline, gravimeetriline, kronomeetriline, sensitomeetriline, sentimeetriline, stöhhiomeetriline, sümmeetriline</grupp>
+<grupp>meetrine: meetrine, millimeetrine, sentimeetrine</grupp>
+<grupp>mehelik: mehelik, kaup|mehelik</grupp>
+<grupp>meheline: meheline, \kolme\meheline</grupp>
+<grupp>mentaalne: mentaalne, monumentaalne, ornamentaalne, dokumentaalne, eksperimentaalne, fundamentaalne, instrumentaalne, sakramentaalne, sentimentaalne</grupp>
+<grupp>mereline: vahemereline, mereline</grupp>
+<grupp>meteoroloogiline: meteoroloogiline, agrometeoroloogiline</grupp>
+<grupp>metsik: metsik, metsiku|võitu</grupp>
+<grupp>miimiline: miimiline, pantomiimiline</grupp>
+<grupp>miliaarne: miliaarne, familiaarne</grupp>
+<grupp>minev: üle|minev, minev, minevane, minevikuline</grupp>
+<grupp>miootiline: miootiline, semiootiline</grupp>
+<grupp>modern: modern, modernistlik, modernne</grupp>
+<grupp>monistlik: monistlik, eudaimonistlik</grupp>
+<grupp>monoloogiline: monoloogiline, pulmonoloogiline</grupp>
+<grupp>mootoriline: mootoriline, \kahe\mootoriline</grupp>
+<grupp>moraalne: moraalne, amoraalne, humoraalne</grupp>
+<grupp>morn: marmorne, morn, mornivõitu</grupp>
+<grupp>mudane: mudane, ammudane</grupp>
+<grupp>mugav: mugav, mugava|võitu, mugavuse|armastaja</grupp>
+<grupp>murdja: murdja, murdjalik, sõna|murdja</grupp>
+<grupp>must: must, musta|habemeline, mustakas, \musta\kulmuline, musta|nahaline, mustandlik, musta|parraline, musta|sajaline, \musta\võitu, must|hall, mustikane, mustjas, mustjas|hall, \mustjas\kõrb, mustlaslik, mustriline, \must\sajaline, kärbse|must, kärbse|mustane, sinimust|valge, sündmustikuline</grupp>
+<grupp>mustjas: mustjas, mustjas|hall, \mustjas\kõrb</grupp>
+<grupp>mõrk: mõrk, mõrkjas</grupp>
+<grupp>mõru: mõru, mõrukas, mõru|võitu</grupp>
+<grupp>mäda: mäda, mädajas, mädakas, mädane, mädanikuline, \mäda\võitu, \puru\mäda</grupp>
+<grupp>märg: vihma|märg, õlle|märg, lige|märg, märg, märgas, märgatamatu, märgiline, märgumatu, nutu|märg, \eesmärgi\pärane, eesmärgitu, kaste|märg, saju|märg</grupp>
+<grupp>määrane: \üle\määrane, määrane, eba|määrane</grupp>
+<grupp>nadi: nadi, nadine, nadivõitu</grupp>
+<grupp>naelane: viie|naelane, naelane</grupp>
+<grupp>nahaline: valge|nahaline, musta|nahaline, nahaline</grupp>
+<grupp>naiiv: naiiv, naiivne, naiivsevõitu</grupp>
+<grupp>naline: laia|aknaline, leinaline, linnaline, lõhnaline, masinaline, mõhnaline, naline, ninaline, paksu|seinaline, piinaline, pinnaline, \püst\seinaline, hinnaline, \kitsa\rinnaline, kunnaline, rinnaline, sarnaline, seinaline, suunaline, suure|aknaline, sõnaline</grupp>
+<grupp>narr: narr, narrikas, narrilane, \narri\võitu</grupp>
+<grupp>natiivne: natiivne, nominatiivne, alternatiivne, subordinatiivne</grupp>
+<grupp>nats: nats, natsionaalne, natsionalistlik, natslik, intonatsiooniline, kombinatsiooniline</grupp>
+<grupp>nelik: tähele|panelik, venelik, õnnelik, läänelik, nelik</grupp>
+<grupp>nett: nett, brünett</grupp>
+<grupp>nigel: nigel, nigelavõitu</grupp>
+<grupp>niger: niger, nigerik</grupp>
+<grupp>nihke: nihke, nihkeline</grupp>
+<grupp>niiske: niiske, \niiske\võitu</grupp>
+<grupp>niiteline: niiteline, kahe|niiteline</grupp>
+<grupp>nips: nips, nipsakas, nipsis</grupp>
+<grupp>niru: niru, nirune</grupp>
+<grupp>nominaalne: nominaalne, pronominaalne, denominaalne</grupp>
+<grupp>noor: minoorne, noor, noorekas, noore|ohtu, \noore\võitu, nooruke(ne), nooruslik, sonoorne</grupp>
+<grupp>norija: tüli|norija, norija</grupp>
+<grupp>normaalne: normaalne, anormaalne</grupp>
+<grupp>nurkne: nurkne, \hulk\nurkne, \kaheksa\nurkne, kolm|nurkne</grupp>
+<grupp>nõtk: nõtk, nõtke</grupp>
+<grupp>nõuka: nõuka, nõukas</grupp>
+<grupp>nährik: nährik, nährikas</grupp>
+<grupp>närb: närb, närbe, närblik</grupp>
+<grupp>näru: näru, närune</grupp>
+<grupp>näss: näss, näss_, nässakas</grupp>
+<grupp>näsu: näsu, näsuline, näsune</grupp>
+<grupp>nätske: nätske, nätskevõitu</grupp>
+<grupp>nääps: nääps, nääpsakas, nääpsjas, nääpsuke(ne), nääpsuvõitu</grupp>
+<grupp>nöbi: nöbi, nöbijas, nöbine</grupp>
+<grupp>nüri: nüri, nürivõitu</grupp>
+<grupp>odav: odav, odavavõitu</grupp>
+<grupp>ofitsiaalne: ofitsiaalne, inofitsiaalne</grupp>
+<grupp>ogaline: ogaline, poogaline</grupp>
+<grupp>ogar: logaritmiline, ogar</grupp>
+<grupp>oher: oher, koherentne</grupp>
+<grupp>ohmakas: tohmakas, lohmakas, ohmakas, kohmakas, rohmakas</grupp>
+<grupp>ohmane: ohmane, johmane</grupp>
+<grupp>ohmu: ohmu, ohmune, ohmuvõitu</grupp>
+<grupp>ohutu: tohutu_, lohutu, ohutu</grupp>
+<grupp>oimetu: toimetu, oimetu</grupp>
+<grupp>oivaline: oivaline, koivaline</grupp>
+<grupp>oksaline: nõre|oksaline, oksaline</grupp>
+<grupp>okslik: okslik, paradokslik</grupp>
+<grupp>olematu: olematu, rahul|olematu</grupp>
+<grupp>oletuslik: oletuslik, koletuslik</grupp>
+<grupp>olmeline: olmeline, kolmeline</grupp>
+<grupp>oluline: vooluline, meeleoluline, oluline, päritoluline</grupp>
+<grupp>omane: omane, asja|omane, joomane</grupp>
+<grupp>omastav: omastav, omastavaline</grupp>
+<grupp>ontlik: tontlik, ontlik</grupp>
+<grupp>ontoloogiline: ontoloogiline, paleontoloogiline</grupp>
+<grupp>onulik: onulik, kroonulik</grupp>
+<grupp>oonu: oonu, oonuke(ne), hoonukene, koonukas, koonuline, koonuseline, koonusjas, kroonulik</grupp>
+<grupp>ootlik: tootlik, lootlik, ootlik, patriootlik, anekdootlik, despootlik, idiootlik</grupp>
+<grupp>opakas: topakas, opakas</grupp>
+<grupp>operatiivne: operatiivne, kooperatiivne</grupp>
+<grupp>optiline: optiline, sünoptiline</grupp>
+<grupp>oraalne: temporaalne, tenoraalne, litoraalne, moraalne, oraalne, pastoraalne, peroraalne, amoraalne, humoraalne</grupp>
+<grupp>oranž: oranž, oranžikas</grupp>
+<grupp>orgaaniline: orgaaniline, anorgaaniline</grupp>
+<grupp>orine: orine, porine, fosforine, kalorine</grupp>
+<grupp>orkjas: torkjas, orkjas, korkjas</grupp>
+<grupp>orograafiline: orograafiline, fluorograafiline</grupp>
+<grupp>oruline: toruline, vooruline, noruline, oruline, \kahe\vooruline, \kolme\vooruline</grupp>
+<grupp>osaline: \ühe\osaline, lepingu|osaline, \mitme\osaline, nelja|osaline, osaline, proosaline, asja|osaline, \kahe\osaline, kolme|osaline</grupp>
+<grupp>osav: osav, osavusetu</grupp>
+<grupp>oskaja: oskaja, kirja|oskaja</grupp>
+<grupp>oskamatu: oskamatu, kirja|oskamatu</grupp>
+<grupp>ostetav: \ära\ostetav, ostetav</grupp>
+<grupp>otakas: totakas, lotakas, otakas</grupp>
+<grupp>otsaline: otsaline, \jämeda\otsaline, kõvera|otsaline</grupp>
+<grupp>paaniline: tümpaaniline, paaniline</grupp>
+<grupp>paat: telepaatiline, paat, paat|hall, paatjas, paatoslik, parasümpaatiline, psühhopaatiline, psühhopaatne, antipaatne, apaatne, empaatiline, sümpaatiline, sümpaatlik, sümpaatne</grupp>
+<grupp>paha: paha, \paha\maiguline, pahane, \paha\võitu</grupp>
+<grupp>pahem: pahem, pahem|pidine</grupp>
+<grupp>pahur: pahur, pahuravõitu</grupp>
+<grupp>pai: \välja\paistmatu, läbi|paistmatu, pai, paigaline, paiguline, paigutine, paikkondlik, paiklik, paikne, painajalik, paindlik, paindumatu, painduv, paiseline, \päikese\paisteline, \päikese\paistene, \päikese\paistetu, \päikse\paisteline, \päikse\paistene, kahe|paikne, kuku|pai, kulla|pai, \kuu\paisteline, \kuu\paistene, \kuu\paistetu, silma|paistmatu</grupp>
+<grupp>paikne: paikne, kahe|paikne</grupp>
+<grupp>paks: paks, paksakas, paksu|huuleline, paksuke(ne), paksuldane, paksu|leheline, paksu|maoline, paksune, \paksu\põhjaline, \paksu\põseline, paksu|seinaline, paksuvõitu</grupp>
+<grupp>palav: tuli|palav, palav, palavikuline, palavikune, \palaviku\vastane, päikese|palav</grupp>
+<grupp>palgaline: vaba|palgaline, palgaline, kindla|palgaline, kuu|palgaline</grupp>
+<grupp>paljas: paljas, paljas|jalgne, \paljas\päine</grupp>
+<grupp>paras: paras, parasiitlik, parasiitne, parasitaarne, parasümpaatiline</grupp>
+<grupp>parunlik: parunlik, \hall\parunlik</grupp>
+<grupp>pateetiline: pateetiline, peripateetiline</grupp>
+<grupp>patsiline: patsiline, pika|patsiline</grupp>
+<grupp>pealine: pealine, \kahe\pealine, \kesk\pealine</grupp>
+<grupp>pealne: trepi|pealne, turja|pealne, täpi|pealne, ukse|pealne, vahe|pealne, \vee\pealne, võlvi|pealne, \õla\pealne, loo|pealne, pae|pealne, pealne, \piiri\pealne, pinna|pealne, põlve|pealne, põranda|pealne, \jää\pealne, karva|pealne, \klindi\pealne, \rinna\pealne, räha|pealne, selja|pealne</grupp>
+<grupp>peatu: peatu, peatumatu</grupp>
+<grupp>pedant: pedant, pedantlik, pedantne</grupp>
+<grupp>peen: peen, peene|hambaline, \peene\võitu, peenike(ne), peenjas, peenlane</grupp>
+<grupp>pehme: pehme, pehmeke(ne), \pehme\tooniline, \pehme\võitu</grupp>
+<grupp>pentsik: pentsik, pentsikuvõitu</grupp>
+<grupp>perfektiivne: perfektiivne, imperfektiivne</grupp>
+<grupp>perioodiline: perioodiline, aperioodiline</grupp>
+<grupp>personaalne: personaalne, impersonaalne</grupp>
+<grupp>peru: peru, perukas, peruvõitu</grupp>
+<grupp>petis: petis, petislik</grupp>
+<grupp>petlik: õpetlik, petlik</grupp>
+<grupp>pidaja: viha|pidaja, pidaja, puhtuse|pidaja, sõna|pidaja</grupp>
+<grupp>pidine: tagurpidine, pahem|pidine, pahu|pidine, parempidine, pidine, \päri\pidine, aegapidine, edaspidine, kahe|pidine, kaksipidine, \kesk\pidine</grupp>
+<grupp>piinlik: piinlik, piinlikuvõitu</grupp>
+<grupp>piiriline: piiriline, empiiriline</grupp>
+<grupp>pikant: pikant, pikantne</grupp>
+<grupp>pikk: pikk, pikkune</grupp>
+<grupp>pime: umb|pime, värvi|pime, öö|pime, pihk|pime, pime, pimedavõitu, pimekas, piuhk|pime, pool|pime, kae|pime, kana|pime, kott|pime</grupp>
+<grupp>pirts: pirts, pirtsakas</grupp>
+<grupp>pisine: \tasa\pisine, pisine</grupp>
+<grupp>plank: plank, planktiline, planktoniline, \planktoni\toiduline, \plankton\toiduline</grupp>
+<grupp>plastiline: plastiline, galvanoplastiline</grupp>
+<grupp>plink: plink, plinkjas</grupp>
+<grupp>poeetiline: onomatopoeetiline, poeetiline</grupp>
+<grupp>polaarne: unipolaarne, polaarne, bipolaarne</grupp>
+<grupp>poliitiline: poliitiline, apoliitiline, kosmopoliitiline</grupp>
+<grupp>ponts: ponts, pontsakas</grupp>
+<grupp>poolik: \õhtu\poolikune, poolik, \kallas\poolik</grupp>
+<grupp>poolne: \ääre\poolne, monopoolne, pealpoolne, poolne, pruudi|poolne, \aia\poolne, allpoolne, eespoolne, hommikupoolne, \hoovi\poolne, kahe|poolne</grupp>
+<grupp>poose: poose, poosekas</grupp>
+<grupp>positsiooniline: opositsiooniline, positsiooniline, kompositsiooniline</grupp>
+<grupp>potentne: potentne, impotentne</grupp>
+<grupp>prii: prii, priima, kapriisne</grupp>
+<grupp>priske: priske, priske|võitu</grupp>
+<grupp>produktiivne: produktiivne, reproduktiivne</grupp>
+<grupp>proportsionaalne: proportsionaalne, disproportsionaalne</grupp>
+<grupp>pruun: pruun, pruuni|jumeline, pruunikas, \pruuni\silmne, pruunjas, päikese|pruun</grupp>
+<grupp>pude: pude, pudeljas, puderjas, pudev</grupp>
+<grupp>pugal: pugal, pugalik</grupp>
+<grupp>puhune: puhune, \pulma\puhune</grupp>
+<grupp>pull: pull, pullakas</grupp>
+<grupp>punane: madara|punane, punane, infra|punane, \koidu\punane</grupp>
+<grupp>punktine: \viie\punktine, punktine</grupp>
+<grupp>purune: purune, purunematu</grupp>
+<grupp>pussak: pussak, pussakas</grupp>
+<grupp>põdur: põdur, põdurake(ne), \põdura\võitu</grupp>
+<grupp>põhjaline: \paksu\põhjaline, põhjaline</grupp>
+<grupp>põnev: põnev, põnevuslik</grupp>
+<grupp>põrgu: põrgu, põrgu|kuum, \põrgu\külm, põrgulik, põrguline</grupp>
+<grupp>põseline: \paksu\põseline, põseline</grupp>
+<grupp>päevalik: päevalik, pühapäevalik</grupp>
+<grupp>päevaline: täht|päevaline, päevaline, \kuu\päevaline</grupp>
+<grupp>päine: \paljas\päine, purjus|päine, päine, \püha\päine, \aru\päine, \hõbe\päine, kahe|päine, kahu|päine</grupp>
+<grupp>pärane: plaani|pärane, pärane, \ainu\pärane, algupärane, \eesmärgi\pärane, kirjakeele|pärane, seadus|pärane</grupp>
+<grupp>pääsmatu: \välja\pääsmatu, pääsmatu</grupp>
+<grupp>pöörane: pöörane, hullu|pöörane</grupp>
+<grupp>püha: püha, pühabane, pühalik, pühane, pühapäevalik, pühapäevaselt, \püha\päine</grupp>
+<grupp>püre: püre, püretamatu</grupp>
+<grupp>püst: püst, püstak, püstakas, \püsti\hull, püstine, püstjas, \püst\külikuline, \püst\loodne, püstne, \püst\seinaline, püst|sirge</grupp>
+<grupp>püstak: püstak, püstakas</grupp>
+<grupp>aadlik: nomaadlik, paraadlik, aadlik, estraadlik, kamraadlik</grupp>
+<grupp>aastane: aastane, saastane</grupp>
+<grupp>aateline: vaateline, aateline</grupp>
+<grupp>abieluline: \mitte\abieluline, abieluline</grupp>
+<grupp>aegne: aegne, elu|aegne, kaas|aegne</grupp>
+<grupp>aeroobne: aeroobne, anaeroobne</grupp>
+<grupp>aeruline: naeruline, aeruline</grupp>
+<grupp>agar: agar, sagaraline, sagarikuline</grupp>
+<grupp>agrane: agrane, hagrane</grupp>
+<grupp>ahas: ahas, ahastuslik</grupp>
+<grupp>ahvlik: ahvlik, krahvlik</grupp>
+<grupp>aineline: laineline, aineline</grupp>
+<grupp>ainsam: üks|ainsam, ainsam</grupp>
+<grupp>ainuke(ne): \üks\ainuke(ne), ainuke(ne)</grupp>
+<grupp>ainumane: \üks\ainumane, ainumane</grupp>
+<grupp>ainumas: \üks\ainumas, ainumas</grupp>
+<grupp>ainus: üks|ainus, ainus, kolm|ainus, ainus_</grupp>
+<grupp>ajalik: vajalik, valgustajalik, õpetajalik, painajalik, ajalik, algajalik, asja|armastajalik, elajalik, hakkajalik, \inim\vihkajalik, kannatajalik</grupp>
+<grupp>ajaline: vajaline, musta|sajaline, \must\sajaline, \päeva\kajaline, aegajaline, \aja\kajaline, ajaline, hajaline, kasvajaline, -rajaline, sajaline</grupp>
+<grupp>ajatu: ajatu, kajatu, rajatu</grupp>
+<grupp>aksiaalne: aksiaalne, koaksiaalne</grupp>
+<grupp>aktiivne: aktiivne, atraktiivne, ekstraktiivne, inaktiivne, reaktiivne, retroaktiivne</grupp>
+<grupp>alaline: \nelja\jalaline, pügalaline, alaline, jalaline, kuue|jalaline, salaline, \seitsme\jalaline</grupp>
+<grupp>alam: alam, alamuslik</grupp>
+<grupp>alane: liiklus|alane, nädalane, alane, jalane, kalane, salane, räbalane</grupp>
+<grupp>alatine: alatine, salatine</grupp>
+<grupp>alatu: alatu, kalatu</grupp>
+<grupp>algaja: algaja, algajalik</grupp>
+<grupp>algeline: \tuhande\palgeline, \ühe\palgeline, \mitme\palgeline, \puna\palgeline, algeline, \eri\palgeline, \kahe\palgeline, \roosa\palgeline</grupp>
+<grupp>algne: ühe|jalgne, nelja|jalgne, paljas|jalgne, \puna\palgne, algne, jalgne, kahe|jalgne, \kuue\jalgne, rang|jalgne, raske|jalgne, saja|jalgne</grupp>
+<grupp>alguline: valguline, alguline, salguline</grupp>
+<grupp>aloogiline: mineraloogiline, aloogiline, analoogiline, genealoogiline</grupp>
+<grupp>alp: pealpoolne, alp, alpiinne</grupp>
+<grupp>alune: taeva|alune, talla|alune, teki|alune, \tolli\alune, trepi|alune, tuhvli|alune, tüli|alune, ukse|alune, usaldus|alune, vaatlus|alune, vaidlus|alune, valve|alune, varju|alune, vee|alune, voodi|alune, võimu|alune, võlvi|alune, võra|alune, võrdlus|alune, võsa|alune, värava|alune, lume|alune, lõua|alune, maa|-alune, maksu|alune, metsa|alune, naha|alune, nina|alune, paja|alune, pea|alune, pilve|alune, pinna|alune, põlu|alune, põranda|alune, ahju|alune, alune, hooldus|alune, joone|alune, kaenla|alune, kaitse|alune, kangi|alune, katse|alune, katuse|alune, \keele\alune, \kesta\alune, kile|alune, \klaasi\alune, klindi|alune, kontrolli|alune, kriminaalhooldus|alune, krohvi|alune, kurgu|alune, kutse|alune, kõhu|alune, \kõne\alune, kärestiku|alune, käsu|alune, külje|alune, küüne|alune, ravi|alune, rea|alune, rinde|alune, \rinna\alune, roovi|alune, räästa|alune, sambla|alune, silma|alune, sängi|alune</grupp>
+<grupp>amorfne: metamorfne, amorfne</grupp>
+<grupp>anaalne: anaalne, banaalne</grupp>
+<grupp>andeline: tuhandeline, andeline, ettekandeline</grupp>
+<grupp>antsakas: pantsakas, antsakas</grupp>
+<grupp>apsakas: apsakas, krapsakas, rapsakas</grupp>
+<grupp>are: tare|esine, trafaretne, transparentne, varem_, varese|karva, munarebu|kollane, parem_, parempidine, parenhümatoosne, parenhüümne, parenteraalne, pikareskne, akvareljas, akvarellilik, akvarelne, are, arenematu, arenguline, harev, kaareline, kare_, kareda|võitu, \keele\arenduslik, saarelik, saareline</grupp>
+<grupp>arg: tuhande|margane, vargalik, \varga\vastane, varglik, vargne, \vargus\vastane, ümmargune, letargiline, margane, marginaalne, arg, argine, arglik, argne, argpükslik, harg|maine, hargnematu, karge, saja|margane</grupp>
+<grupp>arglik: varglik, arglik</grupp>
+<grupp>argne: vargne, argne, hargnematu</grupp>
+<grupp>arktiline: palearktiline, antarktiline, arktiline, holarktiline</grupp>
+<grupp>armas: tõe|armastaja, varmas, \luule\armastaja, mugavuse|armastaja, puhtuse|armastaja, armas, armastaja, asja|armastaja, asja|armastajalik, \asja\armastuslik, enese|armastaja, inimese|armastaja, korra|armastaja, rahu|armastaja</grupp>
+<grupp>armastaja: tõe|armastaja, \luule\armastaja, mugavuse|armastaja, puhtuse|armastaja, armastaja, asja|armastaja, asja|armastajalik, enese|armastaja, inimese|armastaja, korra|armastaja, rahu|armastaja</grupp>
+<grupp>armulik: armulik, kasarmulik</grupp>
+<grupp>artikulatoorne: artikulatoorne, koartikulatoorne</grupp>
+<grupp>artistlik: tšartistlik, artistlik</grupp>
+<grupp>aruline: maruline, aruline, haruline</grupp>
+<grupp>arvutu: arvutu, arvutuslik, karvutu</grupp>
+<grupp>asi: \tagasi\hoidmatu, maasikane, masinaline, masinlik, masin|loetav, okasionaalne, parasiitlik, parasiitne, parasitaarne, aasialik, abrasiivne, asi, asiaatlik, asine, basilikaalne, \edasi\lükkamatu, edasine, faasiline, \fantaasia\rikas, \fantaasia\vaene, gaasiline, gaasine, kasimatu, kasin, \klaasi\alune, klaasine, kuraasikas, sasine, semasioloogiline</grupp>
+<grupp>asine: asine, edasine, gaasine, klaasine, sasine</grupp>
+<grupp>asja|armastaja: asja|armastaja, asja|armastajalik</grupp>
+<grupp>asjatu: asjatu, asjatundja</grupp>
+<grupp>astaatiline: metastaatiline, anastaatiline, astaatiline</grupp>
+<grupp>asteeniline: neurasteeniline, psühhasteeniline, asteeniline</grupp>
+<grupp>astronoomiline: astronoomiline, gastronoomiline</grupp>
+<grupp>asuurne: lasuurne, asuurne</grupp>
+<grupp>atsakas: vatsakas, laatsakas, matsakas, atsakas</grupp>
+<grupp>atu: taandumatu, taastumatu, tabamatu, \tagasi\hoidmatu, tagastamatu, tahtmatu, tahumatu, taibatamatu, taipamatu, tajumatu, takistamatu, talitsematu, taltsutamatu, taltumatu, talumatu, tarvitamatu, tavatu_, teadmatu, teatud, teenimatu, teesklematu, temperatuuriline, teostamatu, teostumatu, teratu, tilgatu, tingimatu, \toa\temperatuuriline, trööstimatu, tundmatu, tunnetamatu, tuumatu, tõendamatu, tõestamatu, tõkestamatu, tõlgendamatu, tõlkimatu, tähele|pandamatu, \tähele\panematu, täidetamatu, täitmatu, täitumatu, tänamatu, tüdimatu, ulatuslik, unustamatu, uppumatu, usaldamatu, uskmatu, uskumatu, usutamatu, vaatuseline, vaatuslik, vaibumatu, vaidlematu, vaidlustamatu, vaieldamatu, vaigistamatu, vaikimatu, valimatu, vallatu, vallutamatu, vananematu, vankumatu, varatu, varjamatu, \vastu\pandamatu, \vastu\panematu, \vastu\seismatu, vastustamatu, \vastu\tulematu, \vastu\võetamatu, vastu|võtmatu, veatu, venimatu, vigastamatu, vihmatu, viibimatu, \viie\vaatuseline, \viie\vaatuslik, viimistlematu, viivitamatu, vilja|kandmatu, viljatu, vilumatu, võhmatu, võidetamatu, võimatu_, võitmatu, võltsimatu, võrdlematu, võrratu_, võrreldamatu, võõrandamatu, vägivallatu, välditamatu, \välja\paistmatu, \välja\pääsmatu, väljendamatu, vältimatu, väsimatu, vääramatu, õigustamatu, \ära\ostmatu, \ära\rääkimatu, \ära\seletamatu, \ära\tundmatu, ära|vahetamatu, ühendamatu, ühitamatu, ühtimatu, ületamatu, üllatuslik, \ümber\lükkamatu, ütlematu, üüratu_, ladvatu, laevatamatu, lahendamatu, lahustumatu, lahutamatu, laitmatu, lakkamatu, lameda|katuseline, leidmatu, lendumatu, lepitamatu, leppimatu, lihatu, liikumatu, literatuurne, loendamatu, loetamatu, lohutamatu, loodamatu, loojumatu, lubamatu, lubatu, lugematu, luitumatu, lõhnatu, lõpmatu_, lõppematu, läbematu, läbi|laskmatu, läbimatu, läbi|paistmatu, läbitamatu, läbi|tungimatu, maa|ilmatu_, maatu, magamatu, \maha\pestamatu, mahlatu, maldamatu, metsatu, miniatuurne, motiveerimatu, murdmatu, murdumatu, muutmatu, muutumatu, mõeldamatu, mõistatamatu, mõistatuslik, mõistetamatu, mõistmatu, mõtlematu, mõõdetamatu, mõõtmatu, mäletamatu, märgatamatu, märgumatu, märkamatu, määramatu, määratlematu, määratu_, müratu, naturaalne, naturalistlik, ninatu, nomenklatuurne, nurjatu_, nägematu, nähtamatu, närtsimatu, ohjamatu, ohjatu, ohjeldamatu, ohjendamatu, oksatu, olematu, olenematu, omapäratu, oodatamatu, ootamatu, organiseerimatu, osatu, \osa\võtmatu, oskamatu, otsatu_, paindumatu, palumatu, parandamatu, paratamatu, patune, \peale\tükkimatu, peatamatu, peatu, peatumatu, pidamatu, pidurdamatu, piiramatu, piirimatu, piiritlematu, piisamatu, piisatu, pilkumatu, pinnatu, pisaratu, \plaani\päratu, plahvatuslik, purunematu, puutumatu, põhjatu_, põhjendamatu, põlematu, pälvimatu, päratu_, pääsematu, pääsmatu, päästmatu, pööramatu, pöördumatu, püksatu, püretamatu, püsimatu, püüdmatu, aegumatu, aimamatu, ajatu, alatu, algatuslik, algupäratu, alistumatu, allumatu, ammendamatu, \andeks\andmatu, andestamatu, arenematu, \armu\heitmatu, arusaadamatu, arusaamatu, arvamatu, asendamatu, asjatu, asjatundja, atu, \au\pakkumatu, distsiplineerimatu, dramaturgiline, eatu, \edasi\lükkamatu, eksimatu, ematu, ennatu, enne|kuulmatu, \ette\vaatamatu, haaramatu, haavamatu, halastamatu, hargnematu, harimatu, harjumatu, harunematu, hatune, hindamatu, hinnatu, hoolimatu, hoomamatu, hukatuslik, häbematu, häbenematu, häirimatu, hännatu, hävimatu, hävitamatu, igamatu, iganematu, ilmatu_, isa|maatu, isatu, \isiku\päratu, jagamatu, jagumatu, jagunematu, jaotamatu, \juurde\pääs(e)matu, \järele\andmatu, \järele\jätmatu, kaalumatu, kaasavaratu, kadumatu, kaheldamatu, kahtlematu, kahvatu, \kahvatu\võitu, kajatu, kalatu, kannatamatu, karikatuurne, karistamatu, kartmatu, karvatu, kasimatu, kasutamatu, kasvatamatu, kasvatuslik, katkematu, katkestamatu, katmatu, katuse|alune, katusjas, kehatu, kildumatu, kimbatuslik, \kinni\külmumatu, kirja|oskamatu, kirjeldamatu, kiusatuslik, \kodu\maatu, kogenematu, kohatu, kohkumatu, \kolme\vaatuseline, \kolme\vaatuslik, koloratuurne, kontrollimatu, kordumatu, \korra\päratu, korratu, kortsumatu, korvamatu, kuivamatu, kujuteldamatu, kujutlematu, kulumatu, kummatu_, kummutamatu, kunnatu, kustumatu, kustutamatu, kutsumatu, kuuldamatu, kuulmatu, kõigutamatu, kõikumatu, kõlatu, kõlbmatu, kõlvatu, kõrvale|kaldumatu, käratu, kärsimatu, käsitamatu, kätte|saadamatu, käändumatu, küllastamatu, küllastumatu, küündimatu, raamatukogunduslik, raamatulik, raamatuline, rahatu, rahuldamatu, rahul|olematu, rajatu, rakendamatu, rannatu, rasvatu, raugematu, ravimatu, realiseerimatu, \reegli\päratu, riivatu, rikkumatu, rinnatu, rippumatu, ruttamatu, rääkimatu, röögatu_, rüvetamatu, saamatu, saamatuvõitu, saatuslik, saavutamatu, sabatu, salgamatu, sallimatu, seedimatu, seedumatu, segamatu, segunematu, seletamatu, selgitamatu, seltsimatu, seostamatu, sidumatu, sigimatu, \sihi\päratu, silma|paistmatu, silma|torkamatu, sobimatu, soovimatu, \sugu\kõlvatu, sundimatu, surematu, suunamatu, sõltumatu, sõnastamatu, sõnatu, säratu, säästmatu, söödamatu, sündmatu, süttimatu, süvenematu, süüdimatu</grupp>
+<grupp>auguline: lauguline, auguline</grupp>
+<grupp>aus: taustaline, laus, lausaldane, lausaline, lauseline, lausik, lausjas, lausk, lauskjas, laus|vale, aus, ausameelne, kausaalne, kausatiivne, kausjas, kaustaline, kaustiline</grupp>
+<grupp>ava: tavalik, tavaline, tavandiline, tavatu_, \terava\lõualine, \terava\võitu, väljavaatetu, värava|alune, värava|esine, väravaline, \ühe\väravaline, lavajas, lavaline, lavastuslik, lihavavõitu, mugava|võitu, nimetavaline, odavavõitu, omastavaline, omavalitsuslik, \peavalu\vastane, ava, aval, avalik, avameelne, avangardistlik, avangardne, avantüristlik, avar, avariiline, avastuslik, ekstravagantne, haavamatu, haavandiline, \igava\võitu, kaasavaratu, kahe|väravaline, kaval, kavala|võitu, kavalerlik, kavatsuslik, \sügava\võitu</grupp>
+<grupp>aval: tavalik, tavaline, väravaline, \ühe\väravaline, lavaline, nimetavaline, omastavaline, omavalitsuslik, \peavalu\vastane, aval, avalik, kahe|väravaline, kaval, kavala|võitu, kavalerlik</grupp>
+<grupp>avalik: tavalik, avalik</grupp>
+<grupp>avar: avar, avariiline, kaasavaratu</grupp>
+<grupp>avastuslik: lavastuslik, avastuslik</grupp>
+<grupp>beež: beež, beežikas, beeživõitu</grupp>
+<grupp>biograafiline: autobiograafiline, biograafiline</grupp>
+<grupp>biootiline: abiootiline, antibiootiline, biootiline, sümbiootiline</grupp>
+<grupp>boreaalne: preboreaalne, boreaalne</grupp>
+<grupp>definiitne: definiitne, indefiniitne</grupp>
+<grupp>deistlik: deistlik, fideistlik</grupp>
+<grupp>dentaalne: transtsendentaalne, presidentaalne, dentaalne</grupp>
+<grupp>deterministlik: deterministlik, indeterministlik</grupp>
+<grupp>diskreetne: diskreetne, indiskreetne</grupp>
+<grupp>dualistlik: dualistlik, individualistlik</grupp>
+<grupp>ealine: \täis\ealine, \töö\ealine, murde|ealine, oma|ealine, pealine, pensioni|ealine, ala|ealine, ealine, \kahe\pealine, \kesk\pealine, kooli|ealine, rauga|ealine, realine</grupp>
+<grupp>eatu: teatud, veatu, peatu, peatumatu, eatu</grupp>
+<grupp>eblakas: eblakas, keblakas</grupp>
+<grupp>edev: edev, edevavõitu</grupp>
+<grupp>edus: vedus, edus, sageduslik</grupp>
+<grupp>eelmine: neelmine, eelmine</grupp>
+<grupp>eelne: lihtsa|meelne, meelne, paralleelne, psühhedeelne, ahta|meelne, ausameelne, avameelne, \edu\meelne, eelne, eri|meelne, evangeelne, hullu|meelne, -keelne</grupp>
+<grupp>eepiline: ortoeepiline, eepiline</grupp>
+<grupp>eesmine: eesmine, seesmine</grupp>
+<grupp>eetiline: teoreetiline, metateetiline, onomatopoeetiline, ontogeneetiline, orogeneetiline, partenogeneetiline, pateetiline, patogeneetiline, peripateetiline, poeetiline, alfabeetiline, apologeetiline, aritmeetiline, atleetiline, diabeetiline, dieetiline, diureetiline, eetiline, eideetiline, energeetiline, epenteetiline, esteetiline, foneetiline, freneetiline, geneetiline, geodeetiline, hermeetiline, hüpoteetiline, katehheetiline, kineetiline, kinesteetiline, kosmeetiline, küberneetiline, sünteetiline</grupp>
+<grupp>efektiivne: defektiivne, efektiivne</grupp>
+<grupp>efektne: defektne, efektne</grupp>
+<grupp>ehakas: ehakas, kehakas</grupp>
+<grupp>ehe: ühe|iduleheline, lehekas, leheküljeline, leheline, lehe|roheline, lehetu, mehekas, mehele|mineja, mehelik, meheline, mehem, paksu|leheline, peremehetu, ajalehelik, ehe, kahe|iduleheline, kaup|mehelik, \kolme\meheline</grupp>
+<grupp>ehtne: lehtne, ehtne</grupp>
+<grupp>eilne: üle|eilne, eilne</grupp>
+<grupp>elav: nigelavõitu, elav</grupp>
+<grupp>elektriline: dielektriline, elektriline</grupp>
+<grupp>elev: elev, elevuslik, irrelevantne, relevantne</grupp>
+<grupp>eluline: \mitte\abieluline, abieluline, eluline, \era\eluline</grupp>
+<grupp>elus: meelus, elus</grupp>
+<grupp>elutu: pelutu, elutu</grupp>
+<grupp>eluviaalne: deluviaalne, eluviaalne</grupp>
+<grupp>emalik: temalik, emalik</grupp>
+<grupp>ematu: talitsematu, teesklematu, \tähele\panematu, vaidlematu, vananematu, \vastu\panematu, \vastu\tulematu, viimistlematu, võrdlematu, ütlematu, lugematu, lõppematu, läbematu, mõtlematu, määratlematu, nägematu, olematu, olenematu, piiritlematu, purunematu, põlematu, pääsematu, arenematu, ematu, hargnematu, harunematu, häbematu, häbenematu, iganematu, jagunematu, kahtlematu, katkematu, kogenematu, kujutlematu, rahul|olematu, raugematu, segunematu, surematu, süvenematu</grupp>
+<grupp>endine: viie|sendine, lõuendine, protsendine, endine, kahekümne|sendine, kümne|sendine, sendine</grupp>
+<grupp>eoseline: eoseline, seoseline</grupp>
+<grupp>epakas: epakas, hepakas</grupp>
+<grupp>ere: tere|tulnud, tserebraalne, tseremoniaalne, vahemereline, veeretu, \vere\karva, verekas, vereline, veretu, verev, \mere\haige, mere|hall, \mere\karva, mereline, merenduslik, \mere\tagune, merevaigu|karva, mere|värske, mere|äärne, operetlik, perekas, perekondlik, pereline, peremehetu, adherentne, aferentne, diferentsiaalne, eferentne, ere, erev, indiferentne, kehv|verene, kerekas, kereline, koherentne, roisk|verene, \sega\vereline, sini|vereline, stereofooniline, stereoskoopiline, stereotüüpiline, stereotüüpne</grupp>
+<grupp>erev: verev, merevaigu|karva, erev</grupp>
+<grupp>eriline: veneeriline, eksoteeriline, eriline, esoteeriline, geneeriline, homeeriline, hüsteeriline, klimakteeriline, koleeriline, korteriline, sideeriline</grupp>
+<grupp>erkjas: verkjas, erkjas</grupp>
+<grupp>erogeenne: minerogeenne, erogeenne, heterogeenne, kantserogeenne</grupp>
+<grupp>erootiline: erootiline, sklerootiline</grupp>
+<grupp>esine: tare|esine, trepi|esine, ukse|esine, vaksali|esine, vesine, \voodi\esine, värava|esine, maja|esine, mesine, esine, kesine, raekoja|esine, rinna|esine</grupp>
+<grupp>essiivne: possessiivne, progressiivne, abessiivne, adessiivne, agressiivne, ekspressiivne, essiivne, inessiivne, kontsessiivne, regressiivne, repressiivne, retsessiivne, suktsessiivne</grupp>
+<grupp>esteetiline: esteetiline, kinesteetiline</grupp>
+<grupp>evolutsiooniline: evolutsiooniline, revolutsiooniline</grupp>
+<grupp>fašistlik: profašistlik, fašistlik</grupp>
+<grupp>figuuriline: punase|figuuriline, figuuriline</grupp>
+<grupp>finiitne: transfiniitne, definiitne, finiitne, indefiniitne, infiniitne</grupp>
+<grupp>formaalne: formaalne, informaalne</grupp>
+<grupp>füüsiline: metafüüsiline, füüsiline</grupp>
+<grupp>geneetiline: ontogeneetiline, orogeneetiline, partenogeneetiline, patogeneetiline, geneetiline</grupp>
+<grupp>generatiivne: degeneratiivne, generatiivne, regeneratiivne</grupp>
+<grupp>geniaalne: geniaalne, kongeniaalne</grupp>
+<grupp>glatsiaalne: periglatsiaalne, preglatsiaalne, glatsiaalne</grupp>
+<grupp>graafiline: telegraafiline, topograafiline, tüpograafiline, leksikograafiline, monograafiline, okeanograafiline, orograafiline, ortograafiline, ostsillograafiline, petrograafiline, piktograafiline, polügraafiline, pornograafiline, autobiograafiline, bibliograafiline, biograafiline, demograafiline, etnograafiline, faktograafiline, fluorograafiline, fotograafiline, geograafiline, graafiline, historiograafiline, hüdrograafiline, ideograafiline, kalligraafiline, kartograafiline, kinematograafiline, koreograafiline, kromatograafiline, ksülograafiline, kümograafiline, röntgenograafiline, stenograafiline, stratigraafiline</grupp>
+<grupp>hahk: hahk, hahkjas</grupp>
+<grupp>haige: tuberkuloosi|haige, vaimu|haige, \voodi\haige, vähi|haige, maksa|haige, \mere\haige, nuutri|haige, \puru\haige, aidsi|haige, astma|haige, haige, \haige\võitu, katku|haige, kopsu|haige, rahhiidi|haige, reuma|haige, rinna|haige, \roosi\haige, rooste|haige, sugu|haige, surma|haige, südame|haige, süüfilis|haige</grupp>
+<grupp>hakkaja: \peale\hakkaja, hakkaja, hakkajalik</grupp>
+<grupp>hapu: hapu, hapukas, \hapu\võitu</grupp>
+<grupp>harmooniline: disharmooniline, enharmooniline, harmooniline</grupp>
+<grupp>harras: harras, harrastuslik</grupp>
+<grupp>harv: harv, harvakas, harvavõitu, harvik</grupp>
+<grupp>hea: hea, heake(ne), \hea\soovlik, hea|südameline, \hea\tujuline</grupp>
+<grupp>heitlik: \alla\heitlik, heitlik</grupp>
+<grupp>helde: helde, heldene</grupp>
+<grupp>hele: tähele|pandamatu, tähele|panelik, \tähele\panematu, mehele|mineja, hele, \heleda\kooreline, \heleda\võitu, helepala</grupp>
+<grupp>helk: helk, helkjas, kihelkondlik</grupp>
+<grupp>hell: hell, hellake(ne), hellasüdameline, hellenistlik, hellik</grupp>
+<grupp>hiline: oligarhiline, psüühiline, põhiline, anarhiline, hierarhiline, hiline, kihiline, sihiline, stiihiline</grupp>
+<grupp>himulik: uudis|himulik, himulik</grupp>
+<grupp>himuline: \uudis\himuline, himuline, saama|himuline</grupp>
+<grupp>hoidja: hoidja, kodu|hoidja, kokku|hoidja</grupp>
+<grupp>homne: üle|homne, homne</grupp>
+<grupp>hooldus|alune: hooldus|alune, kriminaalhooldus|alune</grupp>
+<grupp>hoon: hoon, \hoonete\vaheline, hoonukene</grupp>
+<grupp>hull: usu|hull, \puru\hull, \püsti\hull, arvuti|hull, hull, hullu|meelne, hullu|pöörane, hulluslik</grupp>
+<grupp>huviline: huviline, keele|huviline, kino|huviline, kirjandus|huviline</grupp>
+<grupp>hõlp: hõlp, hõlpus</grupp>
+<grupp>hõre: hõre, hõredavõitu, hõre|hall</grupp>
+<grupp>hõrk: hõrk, hõrkjas</grupp>
+<grupp>hämar: õhtu|hämar, öö|hämar, hämar, hämaravõitu, hämar|hall</grupp>
+<grupp>härras: härras, härraslik</grupp>
+<grupp>hää: \bassi\häälne, hää, häälduslik, häälekas, hääleline, hääletu, häälikuline, häälikulooline, häälne</grupp>
+<grupp>häälne: \bassi\häälne, häälne</grupp>
+<grupp>hüva: hüva, hüvak</grupp>
+<grupp>identne: evidentne, identne</grupp>
+<grupp>igar: oligarhiline, igar, keigarlik, sigarjas</grupp>
+<grupp>igav: igav, \igava\võitu, igavene, igavikuline</grupp>
+<grupp>igerik: nigerik, igerik</grupp>
+<grupp>igine: pigine, higine, igine</grupp>
+<grupp>ihane: vihane, lihane, ihane</grupp>
+<grupp>ihmjas: ihmjas, rihmjas</grupp>
+<grupp>ihne: ihne, ihne|võitu</grupp>
+<grupp>iidne: torpiidne, likviidne, mongoliidne, morbiidne, negriidne, perfiidne, püramiidne, ariidne, bakteritsiidne, europiidne, frigiidne, fungitsiidne, fütontsiidne, graviidne, humiidne, hübriidne, iidne, insektitsiidne, invaliidne, rapiidne, rigiidne, siidne, soliidne, stupiidne, sulfiidne</grupp>
+<grupp>iililine: iililine, stiililine</grupp>
+<grupp>iilitine: viilitine, iilitine</grupp>
+<grupp>ilane: narrilane, ilane</grupp>
+<grupp>ilge: nilge, pilges, ilge</grupp>
+<grupp>illi: villiline, lilline, millimeetrine, pilliroogne, batsilliline, illi, illike(ne)</grupp>
+<grupp>ilmalik: ilmalik, suurilmalik, suurmaailmalik</grupp>
+<grupp>ilmatu_: maa|ilmatu_, ilmatu_</grupp>
+<grupp>ilmne: \üle\maailmne, \pruuni\silmne, puna|silmne, \halli\silmne, ilmne, silmne, \sõstra\silmne</grupp>
+<grupp>ilus: vilus, ilus</grupp>
+<grupp>imal: võimalik, \võimaluste\vaene, maksimalistlik, minimalistlik, piimaline, imal, imalavõitu, kiimaline</grupp>
+<grupp>imar: imar, kimar, roimarlik</grupp>
+<grupp>imeline: taimeline, toimeline, uimeline, võimeline, nimeline, \pika\toimeline, imeline</grupp>
+<grupp>inetu: lainetu, inetu</grupp>
+<grupp>ird: piirdeline, ird, irdne, siirdeline</grupp>
+<grupp>isalik: mõisalik, isalik</grupp>
+<grupp>isandlik: visandlik, isandlik</grupp>
+<grupp>isane: alfa|isane, isane</grupp>
+<grupp>isatu: piisatu, isatu</grupp>
+<grupp>iselik: naiselik, iselik</grupp>
+<grupp>isotroopne: anisotroopne, isotroopne</grupp>
+<grupp>isukas: haisukas, isukas, sisukas</grupp>
+<grupp>isune: tuisune, nisune, isune, risune</grupp>
+<grupp>ivakas: tiivakas, liivakas, ivakas, kuivakas</grupp>
+<grupp>jagune: jagune, jagunematu</grupp>
+<grupp>jahe: \öö\jahe, jahe, jahedavõitu</grupp>
+<grupp>jalaline: \nelja\jalaline, jalaline, kuue|jalaline, \seitsme\jalaline</grupp>
+<grupp>jalgne: ühe|jalgne, nelja|jalgne, paljas|jalgne, jalgne, kahe|jalgne, \kuue\jalgne, rang|jalgne, raske|jalgne, saja|jalgne</grupp>
+<grupp>jamps: jamps, jampslik</grupp>
+<grupp>januline: \elu\januline, januline, \kõmu\januline</grupp>
+<grupp>janune: janune, \kõmu\janune</grupp>
+<grupp>juhm: juhm, juhmakas, juhmivõitu</grupp>
+<grupp>julge: julge, julge|võitu</grupp>
+<grupp>juukseline: pika|juukseline, juukseline</grupp>
+<grupp>jõnk: jõnk, jõnklik, jõnksuline</grupp>
+<grupp>jäme: jäme, \jämeda\otsaline, \jämeda\võitu, jämedune, jämekas</grupp>
+<grupp>kade: akadeemiline, dekadentlik, kade</grupp>
+<grupp>kahar: kahar, kahara|võraline</grupp>
+<grupp>kahvatu: kahvatu, \kahvatu\võitu</grupp>
+<grupp>kalk: kalk, kivi|kalk</grupp>
+<grupp>kallak: kallak, kallakas, kallakjas</grupp>
+<grupp>kallis: kallis, kulla|kallis</grupp>
+<grupp>kandja: kaela|kandja, kandja, koorma|kandja</grupp>
+<grupp>kange: kange, kangekaelne, kangelaslik, \kange\võitu</grupp>
+<grupp>kannataja: kannataja, kannatajalik</grupp>
+<grupp>karm: karm, karmi|võitu, karmune</grupp>
+<grupp>karsk: karsk, karske</grupp>
+<grupp>kasvaja: kasvaja, kasvajaline, \kasvaja\vastane</grupp>
+<grupp>katalektiline: akatalektiline, katalektiline</grupp>
+<grupp>kaval: kaval, kavala|võitu, kavalerlik</grupp>
+<grupp>keev: keev, keevaline</grupp>
+<grupp>kehk: kehk, kehkjas</grupp>
+<grupp>kehv: kehv, kehva, kehvake(ne), kehvavõitu, kehviklik, kehvnoi, kehv|verene</grupp>
+<grupp>kehva: kehva, kehvake(ne), kehvavõitu</grupp>
+<grupp>keks: keks, keksjas, kekstu</grupp>
+<grupp>kelm: kelm, kelmikas, kelmlik</grupp>
+<grupp>kena: kena, kenake(ne)</grupp>
+<grupp>kergats: kergats, kergatslik</grupp>
+<grupp>kerge: kerge, kergeke(ne), kerge|käeline, \kerge\võitu</grupp>
+<grupp>kibe: kibe, kibedavõitu, kibejas, kibekas, kibe|kiire, kibelema</grupp>
+<grupp>kida: kida, kidajas, kidaline, kidane</grupp>
+<grupp>kidur: kidur, kidurake(ne), kidurik</grupp>
+<grupp>kihvt: kihvt, kihvtine</grupp>
+<grupp>kiire: kibe|kiire, kiire, kiire|iseloomuline, kiireline</grupp>
+<grupp>kirev: kirev, kirevane</grupp>
+<grupp>kirjaline: kauni|kirjaline, kirjaline</grupp>
+<grupp>kirju: kirju, kirju|tiivaline</grupp>
+<grupp>kiskja: kiskja, kiskjalik</grupp>
+<grupp>kitsi: kitsi, kitsik, \kitsi\võitu</grupp>
+<grupp>kliiniline: polikliiniline, kliiniline</grupp>
+<grupp>koba: koba, kobakas, kobarjas</grupp>
+<grupp>koer: koer, koeralik</grupp>
+<grupp>kogus: kogus, koguseline</grupp>
+<grupp>kohene: otse|kohene, kohene</grupp>
+<grupp>koi: pitekoidne, koi, \koidu\punane, koivaline, kopika|koi</grupp>
+<grupp>kojaline: kojaline, \kolme\kojaline</grupp>
+<grupp>kollakas: kollakas, kollakas|hall</grupp>
+<grupp>kollane: või|kollane, \võilille\kollane, muna|kollane, munarebu|kollane, kollane, kroom|kollane</grupp>
+<grupp>kommunistlik: prokommunistlik, kommunistlik</grupp>
+<grupp>konar: konar, konarik, konarlik, konarline</grupp>
+<grupp>kondiline: laia|kondiline, kondiline</grupp>
+<grupp>konk: konk, konkaavne, konkordantne, konkreetne, konksjas, konksuline, konkurentsitu</grupp>
+<grupp>konsekventne: inkonsekventne, konsekventne</grupp>
+<grupp>kontaktne: akontaktne, kontaktne</grupp>
+<grupp>kooliline: \üle\ülikooliline, bukooliline, kooliline</grupp>
+<grupp>kooner: kooner, koonerdaja</grupp>
+<grupp>kooniline: lakooniline, drakooniline, kooniline</grupp>
+<grupp>kooreline: \heleda\kooreline, kooreline</grupp>
+<grupp>kopikane: viie|kopikane, viiekümne|kopikane, kahe|kopikane, kahekümne|kopikane, kolme|kopikane, kopikane, kümne|kopikane</grupp>
+<grupp>kordne: tuhat|kordne, ainu|kordne, kolme|kordne, kordne, saja|kordne</grupp>
+<grupp>kore: kore, koreograafiline</grupp>
+<grupp>kreem: kreem, kreemikas, kreemine, kreemjas</grupp>
+<grupp>kribu: kribu, kribukrabuline, kribuline</grupp>
+<grupp>kriim: tahma|kriim, tolmu|kriim, pisar|kriim, kriim, kriimuline, kriimune</grupp>
+<grupp>kriitiline: diakriitiline, kriitiline</grupp>
+<grupp>krobe: krobe, krobeline</grupp>
+<grupp>kromaatiline: pankromaatiline, akromaatiline, kromaatiline</grupp>
+<grupp>krooniline: asünkrooniline, diakrooniline, krooniline, sünkrooniline</grupp>
+<grupp>kroonine: \tuhande\kroonine, viie|kroonine, viiekümne|kroonine, viiesaja|kroonine, ühe|kroonine, kahe|kroonine, \kahekümne\kroonine, kroonine, kümne|kroonine, \kahe\kroonine, saja|kroonine</grupp>
+<grupp>ktooniline: tektooniline, arhitektooniline, ktooniline</grupp>
+<grupp>kuiv: metsa|kuiv, \pool\kuiv, \põllu\kuiv, põua|kuiv, \päikese\kuiv, kuiv, kuivakas, kuivamatu, kuivavõitu, kuiveldane, kuiveljas, kuivetu, kuivjas</grupp>
+<grupp>kujutu: kujutu, kujutuslik</grupp>
+<grupp>kultuuriline: kehakultuuriline, kultuuriline</grupp>
+<grupp>kume: ökumeeniline, oikumeeniline, dokumentaalne, kume, kumer, kumerik, kumerjas</grupp>
+<grupp>kumer: kumer, kumerik, kumerjas</grupp>
+<grupp>kumulatiivne: akumulatiivne, kumulatiivne</grupp>
+<grupp>kura: obskurantlik, obskurantne, akuraatne, kura, kuraasikas, kuradim, kuratlik</grupp>
+<grupp>kurb: kurb, kurblik, kurb|looline</grupp>
+<grupp>kuri: kuri, kurioosne, kuritegevus|vastane</grupp>
+<grupp>kurt: \pool\kurt, kurt, kurt|tumm, kurtuaasne</grupp>
+<grupp>kutseline: elu|kutseline, kutseline</grupp>
+<grupp>kuulja: kuulja, kuuljas</grupp>
+<grupp>kuulmatu: enne|kuulmatu, kuulmatu</grupp>
+<grupp>kuum: põrgu|kuum, põua|kuum, päikese|kuum, kuum, \kuuma\võitu, suve|kuum</grupp>
+<grupp>kõdu: kõdu, kõdune, \kõdu\toiduline</grupp>
+<grupp>kõhe: kõhe, kõhedavõitu, kõhetu, kõhetuslik, kõhetuvõitu</grupp>
+<grupp>kõhetu: kõhetu, kõhetuslik, kõhetuvõitu</grupp>
+<grupp>kõhn: kõhn, kõhnake(ne), kõhnavõitu, kõhnetu, kõhnuke(ne)</grupp>
+<grupp>kõhuline: \kollase\kõhuline, kõhuline</grupp>
+<grupp>kõikne: üks|kõikne, kõikne</grupp>
+<grupp>kõle: kõle, kõledavõitu, kõle|hall</grupp>
+<grupp>kõlvatu: kõlvatu, \sugu\kõlvatu</grupp>
+<grupp>kõrge: kõrge, \kõrge\korjuline, \kõrge\kraeline, \kõrge\pardaline, \kõrge\võitu</grupp>
+<grupp>kõrk: kõrk, kõrkjane</grupp>
+<grupp>kõrvaline: kikkis|kõrvaline, kõrvaline</grupp>
+<grupp>kõva: kõva, kõvadune, kõvakas, \kõva\võitu</grupp>
+<grupp>kõver: kõver, kõvera|otsaline, kõverik</grupp>
+<grupp>käeline: kerge|käeline, käeline</grupp>
+<grupp>kähe: kähe, kähedavõitu</grupp>
+<grupp>käija: koolis|käija, käija</grupp>
+<grupp>käpard: käpard, käpardlik</grupp>
+<grupp>kärbse|must: kärbse|must, kärbse|mustane</grupp>
+<grupp>küljeline: leheküljeline, küljeline</grupp>
+<grupp>küllas: küllas, küllastamatu, küllastumatu</grupp>
+<grupp>külm: talve|külm, \teras\külm, \tunde\külm, õue|külm, öö|külm, \põrgu\külm, \igi\külm, \kaste\külm, \kinni\külmumatu, \kivi\külm, \käre\külm, külm, \külma\võitu, raud|külm, \sugu\külm, sügis|külm</grupp>
+<grupp>kümne|kopikane: viiekümne|kopikane, kahekümne|kopikane, kümne|kopikane</grupp>
+<grupp>kümne|kroonine: viiekümne|kroonine, kümne|kroonine</grupp>
+<grupp>kümneline: viie|kümneline, kümneline</grupp>
+<grupp>kümnene: kahe|kümnene, kümnene</grupp>
+<grupp>kümne|sendine: kahekümne|sendine, kümne|sendine</grupp>
+<grupp>küps: küps, küpse</grupp>
+<grupp>liiduline: üle|liiduline, liiduline</grupp>
+<grupp>raamiline: keraamiline, raamiline</grupp>
+<grupp>rabe: arabeskne, krabe, rabe, rabedavõitu</grupp>
+<grupp>ramb: ramb, rambakas, rambe</grupp>
+<grupp>ramm: programmiline, epigrammiline, grammatiline, grammine, ramm, rammetu, rammukas, rammus, rammutu</grupp>
+<grupp>ramp: kramplik, ramp</grupp>
+<grupp>randiline: tarandiline, veerandiline, randiline</grupp>
+<grupp>range: range, \range\võitu</grupp>
+<grupp>raoline: praoline, raoline</grupp>
+<grupp>rapsakas: krapsakas, rapsakas</grupp>
+<grupp>rase: terase|karva, terasene, fraseoloogiline, rase, rasestumis|vastane</grupp>
+<grupp>raske: raske, raske|jalgne, raske|võitu</grupp>
+<grupp>rassiline: terrassiline, rassiline</grupp>
+<grupp>ratsionaalne: irratsionaalne, ratsionaalne</grupp>
+<grupp>raudne: ühe|raudne, kahe|raudne, kolme|raudne, raudne</grupp>
+<grupp>rauge: rauge, raugematu</grupp>
+<grupp>rauk: rauk, rauk|vana</grupp>
+<grupp>reaalne: preboreaalne, boreaalne, irreaalne, reaalne</grupp>
+<grupp>realistlik: realistlik, sürrealistlik</grupp>
+<grupp>regulaarne: irregulaarne, regulaarne</grupp>
+<grupp>relatiivne: korrelatiivne, relatiivne</grupp>
+<grupp>relevantne: irrelevantne, relevantne</grupp>
+<grupp>rigiidne: frigiidne, rigiidne</grupp>
+<grupp>rikas: \tunde\rikas, uus|rikas, vee|rikas, väärikas, üli|rikas, narrikas, nährikas, \pähkli\rikas, bravuurikas, \fantaasia\rikas, furoorikas, humoorikas, kogemus|rikas, kõrikas, rikas</grupp>
+<grupp>rindeline: ühe|rindeline, kahe|rindeline, rindeline</grupp>
+<grupp>ringiline: \ühe\ringiline, \kahe\ringiline, kolme|ringiline, ringiline</grupp>
+<grupp>ringne: aasta|ringne, ringne</grupp>
+<grupp>rinnaline: \kitsa\rinnaline, rinnaline</grupp>
+<grupp>ripsmeline: pika|ripsmeline, ripsmeline</grupp>
+<grupp>ristiline: fennougristiline, floristiline, heuristiline, ristiline</grupp>
+<grupp>rituaalne: rituaalne, spirituaalne</grupp>
+<grupp>robe: krobe, krobeline, robe</grupp>
+<grupp>roheline: vase|roheline, lehe|roheline, malahhiit|roheline, roheline</grupp>
+<grupp>roid: roid, roideline, roidmine</grupp>
+<grupp>roogne: pilliroogne, roogne, selg|roogne</grupp>
+<grupp>roopaline: \üle\euroopaline, roopaline</grupp>
+<grupp>roosa: proosaline, beebi|roosa, roosa, roosa|huuleline, \roosa\jumeline, roosakas, \roosa\mannalik, \roosa\palgeline</grupp>
+<grupp>rootu: rootu, selg|rootu</grupp>
+<grupp>rublane: tuhande|rublane, \viiekümne\rublane, viie|rublane, viiesaja|rublane, poole|rublane, kolme|rublane, kümne|rublane, \kahe\rublane, rublane, saja|rublane</grupp>
+<grupp>rullakas: trullakas, prullakas, rullakas</grupp>
+<grupp>rumal: rumal, rumalake(ne), rumalavõitu</grupp>
+<grupp>rusk: ümbruskondne, rusk, ruske, ruskjas, sõpruskondlik</grupp>
+<grupp>ruumiline: aegruumiline, ruumiline</grupp>
+<grupp>rõske: rõske, rõskevõitu</grupp>
+<grupp>rõve: rõve|vulgaarne, rõve</grupp>
+<grupp>rõõsa: rõõsa, rõõsakas</grupp>
+<grupp>räbal: räbal, räbalane, räbalavõitu</grupp>
+<grupp>räbe: kräbe, räbe</grupp>
+<grupp>rähniline: trähniline, rähniline</grupp>
+<grupp>räige: räige, räigevõitu</grupp>
+<grupp>räme: räme, rämedavõitu</grupp>
+<grupp>rämps: rämps, rämpsune</grupp>
+<grupp>rääkimatu: \ära\rääkimatu, rääkimatu</grupp>
+<grupp>räämuline: kräämuline, räämuline</grupp>
+<grupp>rööpmeline: \ühe\rööpmeline, \kahe\rööpmeline, kitsa|rööpmeline, rööpmeline</grupp>
+<grupp>rütmiline: arütmiline, rütmiline</grupp>
+<grupp>rüve: rüve, rüvetamatu, rüvetu</grupp>
+<grupp>saamatu: arusaamatu, saamatu, saamatuvõitu</grupp>
+<grupp>sage: sageduslik, sage, sagedane</grupp>
+<grupp>saja|kroonine: viiesaja|kroonine, saja|kroonine</grupp>
+<grupp>sajaline: musta|sajaline, \must\sajaline, sajaline</grupp>
+<grupp>sajane: viie|sajane, sajane</grupp>
+<grupp>saja|rublane: viiesaja|rublane, saja|rublane</grupp>
+<grupp>sakiline: sakiline, siksakiline</grupp>
+<grupp>sale: sale, saledake(ne), \saleda\sõrmeline, \saleda\sääreline, \saleda\võitu, sale|pihtne</grupp>
+<grupp>sant: misantroopiline, misantroopne, puru|sant, amüsantne, brisantne, imposantne, sant</grupp>
+<grupp>sarveline: \pika\sarveline, sarveline</grupp>
+<grupp>seadus: põhiseaduslik, seadus, \seadus\andlik, seadusetu, seaduslik, seadus|pärane</grupp>
+<grupp>seaduslik: põhiseaduslik, seaduslik</grupp>
+<grupp>seemneline: palju|seemneline, seemneline</grupp>
+<grupp>segune: \halli\segune, segune, segunematu</grupp>
+<grupp>seinaline: paksu|seinaline, \püst\seinaline, seinaline</grupp>
+<grupp>seismiline: aseismiline, seismiline</grupp>
+<grupp>seksuaalne: transseksuaalne, aseksuaalne, biseksuaalne, seksuaalne</grupp>
+<grupp>seletamatu: \ära\seletamatu, seletamatu</grupp>
+<grupp>seltsim: seltsim, seltsimatu</grupp>
+<grupp>seltskondlik: seltskondlik, seltskondlikult</grupp>
+<grupp>semulik: semulik, semulikult</grupp>
+<grupp>sendine: viie|sendine, protsendine, kahekümne|sendine, kümne|sendine, sendine</grupp>
+<grupp>septiline: aseptiline, septiline</grupp>
+<grupp>seroosne: ultseroosne, seroosne</grupp>
+<grupp>sfääriline: atmosfääriline, sfääriline</grupp>
+<grupp>sigiv: sigiv, sigivusetu</grupp>
+<grupp>siidne: bakteritsiidne, fungitsiidne, fütontsiidne, insektitsiidne, siidne</grupp>
+<grupp>silmne: \pruuni\silmne, puna|silmne, \halli\silmne, silmne, \sõstra\silmne</grupp>
+<grupp>sinakas: sinakas, sinakas|hall</grupp>
+<grupp>sinikas: sinikas, sinikas|hall</grupp>
+<grupp>sinine: ultramariin|sinine, lasuur|sinine, poti|sinine, koobalt|sinine, sinine</grupp>
+<grupp>sinkjas: sinkjas, sinkjas|hall</grupp>
+<grupp>sionistlik: protektsionistlik, abstraktsionistlik, anneksionistlik, ekspansionistlik, ekspressionistlik, impressionistlik, revisionistlik, sionistlik</grupp>
+<grupp>sire: sire, \sireli\karva, \sire\säärne</grupp>
+<grupp>sirge: püst|sirge, \kepp\sirge, rõht|sirge, \siht\sirge, sirge, \sirge\varreline</grupp>
+<grupp>sisene: \klassi\sisene, sisene</grupp>
+<grupp>skleroosi|vastane: ateroskleroosi|vastane, skleroosi|vastane</grupp>
+<grupp>soe: \tapa\soe, toa|soe, \tunde\soe, \udara\soe, une|soe, õlle|soe, öö|soe, pliidi|soe, päeva|soe, päikese|soe, \päikse\soe, ahju|soe, ihu|soe, käe|soe, soe, soerdlik, \suitsu\soe, suve|soe, sõidu|soe, südame|soe</grupp>
+<grupp>soliid: soliid, soliidne</grupp>
+<grupp>soojane: \püsi\soojane, kõigu|soojane, soojane</grupp>
+<grupp>sooniline: sesooniline, sooniline</grupp>
+<grupp>soonine: osoonine, soonine</grupp>
+<grupp>soovlik: \hea\soovlik, soovlik</grupp>
+<grupp>sotsiaalne: asotsiaalne, sotsiaalne</grupp>
+<grupp>spets: spets, spetsiaalne, spetsiifiline</grupp>
+<grupp>staatiline: metastaatiline, anastaatiline, astaatiline, bakteriostaatiline, ekstaatiline, fotostaatiline, staatiline</grupp>
+<grupp>stabiilne: metastabiilne, stabiilne</grupp>
+<grupp>stroofiline: düstroofiline, katastroofiline, stroofiline</grupp>
+<grupp>sugestiivne: autosugestiivne, sugestiivne</grupp>
+<grupp>sugune: \teie\sugune, \tema\sugune, meie|sugune, minu|sugune, mitme|sugune, muu|sugune, mõne|sugune, oma|sugune, erisugune, iga|sugune, isesugune, \kahe\sugune, kolme|sugune, kõik|sugune, sajasugune, sinu|sugune, sugune, suur|sugune</grupp>
+<grupp>suline: taara|usuline, tantsuline, tasuline, teise|usuline, tupsuline, usuline, uue|usuline, vana|usuline, \vene\usuline, \vene\õigeusuline, võnksuline, väär|usuline, \õige\usuline, \ühe\lasuline, laama|usuline, lahk|usuline, luteri|usuline, maksuline, muhamedi|usuline, mässuline, näsuline, islami|usuline, jonksuline, jõnksuline, kasuline, kisuline, konksuline, kortsuline, krimpsuline, kräsuline, risti|usuline, roisuline, rootsuline, sisuline, suline</grupp>
+<grupp>sumb: sumb, sumbane, sumbe, sumbne, sumbune, sumbuurne</grupp>
+<grupp>sume: sume, sumedavõitu, sumejas, sumekas</grupp>
+<grupp>suur: tsensuurne, lasuurne, lasuur|sinine, asuurne, \eba\tsensuurne, suur, suure|aknaline, \suure\gabariidiline, \suure\hambaline, suurekas, suureke(ne), \suureks\tegev, suureline, \suure\skooriline, \suure\tonnaažiline, \suure\võitu, suurilmalik, suurmaailmalik, suur|sugune, suur|tiivaline, \suur\täheline, \suurtüki\väeline, suuruke(ne), suurune</grupp>
+<grupp>sõmer: sõmer, sõmeraline, sõmeravõitu, sõmerjas</grupp>
+<grupp>sõre: sõre, sõrestikuline</grupp>
+<grupp>sõrmeline: \pika\sõrmeline, \saleda\sõrmeline, sõrmeline</grupp>
+<grupp>sõõrik: tsõõrik, sõõrik</grupp>
+<grupp>säbar: säbar, säbarik</grupp>
+<grupp>sääreline: \pika\sääreline, \saleda\sääreline, sihvaka|sääreline, sääreline</grupp>
+<grupp>sööja: liha|sööja, putuka|sööja, \inim\sööjalik, kõige|sööja, raipe|sööja, rohu|sööja, sõna|sööja, sööja</grupp>
+<grupp>südameline: hea|südameline, hellasüdameline, härdasüdameline, südameline</grupp>
+<grupp>südi: südi, südikas</grupp>
+<grupp>sügav: sügav, \sügava\võitu, \sügav\hall, sügavune</grupp>
+<grupp>sümmeetriline: asümmeetriline, sümmeetriline</grupp>
+<grupp>sümpaatiline: parasümpaatiline, sümpaatiline</grupp>
+<grupp>sünge: sünge, \sünge\võitu</grupp>
+<grupp>sünk: asünkrooniline, asünkroonne, sünk, sünkjas, sünkoopiline, sünkretistlik, sünkrooniline, sünkroonne</grupp>
+<grupp>sünkrooniline: asünkrooniline, sünkrooniline</grupp>
+<grupp>sünkroonne: asünkroonne, sünkroonne</grupp>
+<grupp>sürr: sürr, sürrealistlik</grupp>
+<grupp>süütu: süütu, süütuke(ne)</grupp>

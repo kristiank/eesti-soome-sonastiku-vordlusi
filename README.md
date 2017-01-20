@@ -36,3 +36,7 @@ iga eesti märksõna, kus esineb õ
   käsitsi määratud eesti sõna silp
   käsitsi määratud vastav soome silp
 ```
+
+## Liitadjektiiv ehk adjektiiv esineb märksõnas afiksina
+
+Otsing sooritati EKSSis. Hiljem koostatakse jätkupäring soome sõnastikust. Palju naljakaid vigu esineb, nt omadussõna "peen" leiab märksõna "teepeenar".
